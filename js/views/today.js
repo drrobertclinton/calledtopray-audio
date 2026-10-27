@@ -3,7 +3,7 @@ import { esc, icon, fmtLongDate, greeting, todayKey, dayOfYear, hashStr, seededS
 import { state, tr, kvGet, kvSet, pushProfile } from '../store.js';
 import { topicsData, keyVerses, getPassage, getChapter, verseAudio, chapterAudio, displayRef, TR_NAMES } from '../bible.js';
 import { playBtn, playTrack } from '../audio.js';
-import { topicsForProfile, prayerPrompt } from '../content.js';
+import { topicsForProfile, prayerPrompt, verseFitsProfile } from '../content.js';
 import { openSpeakMode } from './pray.js';
 
 // Pick today's verse once per day: verses tied to the person's callings and situations
@@ -11,7 +11,7 @@ import { openSpeakMode } from './pray.js';
 export async function verseOfTheDay() {
   const today = todayKey();
   const saved = kvGet('vod');
-  const all = await keyVerses('BSB');
+  const all = (await keyVerses('BSB')).filter(r => verseFitsProfile(r, state.profile));
   if (saved && saved.date === today && all.includes(saved.ref)) return saved.ref;
   const td = await topicsData();
   const want = new Set(topicsForProfile(state.profile));

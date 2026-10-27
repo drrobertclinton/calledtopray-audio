@@ -45,6 +45,17 @@ export function categoryOf(label) {
   for (const [k, c] of Object.entries(CAT)) if (c.re.test(label)) return k;
   return null;
 }
+// Verses written to husbands or fathers. They are only chosen as a Verse of the Day
+// for someone who picked Husband (or Father/Grandfather for the fathers' verses).
+const FOR_HUSBANDS = ['Proverbs 5:18-19', 'Proverbs 18:22', 'Ephesians 5:25', '1 Peter 3:7'];
+const FOR_FATHERS = ['Ephesians 6:4', 'Colossians 3:21'];
+export function verseFitsProfile(ref, p) {
+  const fam = new Set(p.family || []);
+  if (FOR_HUSBANDS.includes(ref)) return fam.has('Husband');
+  if (FOR_FATHERS.includes(ref)) return fam.has('Father') || fam.has('Grandfather');
+  return true;
+}
+
 export function topicsForProfile(p) {
   const s = new Set();
   for (const c of p.callings || []) {
