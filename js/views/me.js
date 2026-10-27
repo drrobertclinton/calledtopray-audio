@@ -27,6 +27,12 @@ export async function renderMe(app) {
     </section>
 
     <section class="card">
+      <div class="card-label">${icon('note')}Help us test</div>
+      <p class="card-purpose">Found a problem or have an idea? We read every note.</p>
+      <button class="btn btn-gold btn-block" id="feedback">${icon('note')}Send feedback</button>
+    </section>
+
+    <section class="card">
       <div class="card-label">${icon('edit')}Your name</div>
       <p class="card-purpose">Used to greet you and shown to your groups.</p>
       <input type="text" id="name" data-dictate value="${esc(p.name)}" placeholder="Your first name" autocomplete="given-name">
@@ -80,6 +86,7 @@ export async function renderMe(app) {
       : `<button class="btn btn-ghost btn-block" id="reset" style="margin-top:22px">Start over on this device</button>`}
   `;
   wireDictation(app);
+  app.querySelector('#feedback').onclick = () => import('../feedback.js').then(m => m.openFeedback());
   const name = app.querySelector('#name');
   let nt; name.addEventListener('input', () => { clearTimeout(nt); nt = setTimeout(() => saveProfile({ name: name.value.trim() }), 500); });
   name.addEventListener('change', () => saveProfile({ name: name.value.trim() }));

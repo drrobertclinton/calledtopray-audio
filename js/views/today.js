@@ -71,8 +71,10 @@ export async function renderToday(app) {
       <div class="skeleton"></div>
     </article>
     <p class="hint" style="text-align:center;margin-top:22px">Reading from the ${esc(TR_NAMES[t])}. Change this in Me.</p>
+    <button class="btn btn-outline btn-block" id="feedback" style="margin-top:14px">${icon('note')}Send feedback</button>
   `;
   app.querySelector('#pray-now').onclick = () => openSpeakMode();
+  app.querySelector('#feedback').onclick = () => import('../feedback.js').then(m => m.openFeedback());
 
   // Prayer prompt
   const pr = prayerPrompt(p, dayOfYear(now));
