@@ -1,0 +1,2197 @@
+{
+ "BSB": {
+  "Psalms": {
+   "1": [
+    "BSB/Psalms/Psalm_001.mp3"
+   ],
+   "2": [
+    "BSB/Psalms/Psalm_002.mp3"
+   ],
+   "3": [
+    "BSB/Psalms/Psalm_003_part1.mp3",
+    "BSB/Psalms/Psalm_003_part2.mp3"
+   ],
+   "4": [
+    "BSB/Psalms/Psalm_004_part1.mp3",
+    "BSB/Psalms/Psalm_004_part2.mp3"
+   ],
+   "5": [
+    "BSB/Psalms/Psalm_005_part1.mp3",
+    "BSB/Psalms/Psalm_005_part2.mp3",
+    "BSB/Psalms/Psalm_005_part3.mp3"
+   ],
+   "6": [
+    "BSB/Psalms/Psalm_006.mp3"
+   ],
+   "7": [
+    "BSB/Psalms/Psalm_007.mp3"
+   ],
+   "8": [
+    "BSB/Psalms/Psalm_008.mp3"
+   ],
+   "9": [
+    "BSB/Psalms/Psalm_009_part1.mp3",
+    "BSB/Psalms/Psalm_009_part2.mp3"
+   ],
+   "10": [
+    "BSB/Psalms/Psalm_010_part1.mp3",
+    "BSB/Psalms/Psalm_010_part2.mp3"
+   ],
+   "11": [
+    "BSB/Psalms/Psalm_011.mp3"
+   ],
+   "12": [
+    "BSB/Psalms/Psalm_012.mp3"
+   ],
+   "13": [
+    "BSB/Psalms/Psalm_013.mp3"
+   ],
+   "14": [
+    "BSB/Psalms/Psalm_014.mp3"
+   ],
+   "15": [
+    "BSB/Psalms/Psalm_015.mp3"
+   ],
+   "16": [
+    "BSB/Psalms/Psalm_016_part1.mp3",
+    "BSB/Psalms/Psalm_016_part2.mp3",
+    "BSB/Psalms/Psalm_016_part3.mp3"
+   ],
+   "17": [
+    "BSB/Psalms/Psalm_017.mp3"
+   ],
+   "18": [
+    "BSB/Psalms/Psalm_018_part1.mp3",
+    "BSB/Psalms/Psalm_018_part2.mp3"
+   ],
+   "19": [
+    "BSB/Psalms/Psalm_019_part1.mp3",
+    "BSB/Psalms/Psalm_019_part2.mp3"
+   ],
+   "20": [
+    "BSB/Psalms/Psalm_020_part1.mp3",
+    "BSB/Psalms/Psalm_020_part2.mp3"
+   ],
+   "21": [
+    "BSB/Psalms/Psalm_021.mp3"
+   ],
+   "22": [
+    "BSB/Psalms/Psalm_022.mp3"
+   ],
+   "23": [
+    "BSB/Psalms/Psalm_023_part1.mp3",
+    "BSB/Psalms/Psalm_023_part2.mp3"
+   ],
+   "24": [
+    "BSB/Psalms/Psalm_024.mp3"
+   ],
+   "25": [
+    "BSB/Psalms/Psalm_025_part1.mp3",
+    "BSB/Psalms/Psalm_025_part2.mp3",
+    "BSB/Psalms/Psalm_025_part3.mp3"
+   ],
+   "26": [
+    "BSB/Psalms/Psalm_026.mp3"
+   ],
+   "27": [
+    "BSB/Psalms/Psalm_027_part1.mp3",
+    "BSB/Psalms/Psalm_027_part2.mp3"
+   ],
+   "28": [
+    "BSB/Psalms/Psalm_028_part1.mp3",
+    "BSB/Psalms/Psalm_028_part2.mp3"
+   ],
+   "29": [
+    "BSB/Psalms/Psalm_029.mp3"
+   ],
+   "30": [
+    "BSB/Psalms/Psalm_030_part1.mp3",
+    "BSB/Psalms/Psalm_030_part2.mp3",
+    "BSB/Psalms/Psalm_030_part3.mp3"
+   ],
+   "31": [
+    "BSB/Psalms/Psalm_031_part1.mp3",
+    "BSB/Psalms/Psalm_031_part2.mp3"
+   ],
+   "32": [
+    "BSB/Psalms/Psalm_032_part1.mp3",
+    "BSB/Psalms/Psalm_032_part2.mp3",
+    "BSB/Psalms/Psalm_032_part3.mp3"
+   ],
+   "33": [
+    "BSB/Psalms/Psalm_033_part1.mp3",
+    "BSB/Psalms/Psalm_033_part2.mp3",
+    "BSB/Psalms/Psalm_033_part3.mp3"
+   ],
+   "34": [
+    "BSB/Psalms/Psalm_034_part1.mp3",
+    "BSB/Psalms/Psalm_034_part2.mp3",
+    "BSB/Psalms/Psalm_034_part3.mp3",
+    "BSB/Psalms/Psalm_034_part4.mp3",
+    "BSB/Psalms/Psalm_034_part5.mp3",
+    "BSB/Psalms/Psalm_034_part6.mp3",
+    "BSB/Psalms/Psalm_034_part7.mp3",
+    "BSB/Psalms/Psalm_034_part8.mp3"
+   ],
+   "35": [
+    "BSB/Psalms/Psalm_035.mp3"
+   ],
+   "36": [
+    "BSB/Psalms/Psalm_036.mp3"
+   ],
+   "37": [
+    "BSB/Psalms/Psalm_037_part1.mp3",
+    "BSB/Psalms/Psalm_037_part2.mp3",
+    "BSB/Psalms/Psalm_037_part3.mp3",
+    "BSB/Psalms/Psalm_037_part4.mp3",
+    "BSB/Psalms/Psalm_037_part5.mp3",
+    "BSB/Psalms/Psalm_037_part6.mp3",
+    "BSB/Psalms/Psalm_037_part7.mp3",
+    "BSB/Psalms/Psalm_037_part8.mp3",
+    "BSB/Psalms/Psalm_037_part9.mp3"
+   ],
+   "38": [
+    "BSB/Psalms/Psalm_038.mp3"
+   ],
+   "39": [
+    "BSB/Psalms/Psalm_039.mp3"
+   ],
+   "40": [
+    "BSB/Psalms/Psalm_040_part1.mp3",
+    "BSB/Psalms/Psalm_040_part2.mp3"
+   ],
+   "41": [
+    "BSB/Psalms/Psalm_041.mp3"
+   ],
+   "42": [
+    "BSB/Psalms/Psalm_042_part1.mp3",
+    "BSB/Psalms/Psalm_042_part2.mp3"
+   ],
+   "43": [
+    "BSB/Psalms/Psalm_043.mp3"
+   ],
+   "44": [
+    "BSB/Psalms/Psalm_044.mp3"
+   ],
+   "45": [
+    "BSB/Psalms/Psalm_045.mp3"
+   ],
+   "46": [
+    "BSB/Psalms/Psalm_046_part1.mp3",
+    "BSB/Psalms/Psalm_046_part2.mp3"
+   ],
+   "47": [
+    "BSB/Psalms/Psalm_047.mp3"
+   ],
+   "48": [
+    "BSB/Psalms/Psalm_048_part1.mp3",
+    "BSB/Psalms/Psalm_048_part2.mp3"
+   ],
+   "49": [
+    "BSB/Psalms/Psalm_049.mp3"
+   ],
+   "50": [
+    "BSB/Psalms/Psalm_050.mp3"
+   ],
+   "51": [
+    "BSB/Psalms/Psalm_051_part1.mp3",
+    "BSB/Psalms/Psalm_051_part2.mp3"
+   ],
+   "52": [
+    "BSB/Psalms/Psalm_052.mp3"
+   ],
+   "53": [
+    "BSB/Psalms/Psalm_053.mp3"
+   ],
+   "54": [
+    "BSB/Psalms/Psalm_054.mp3"
+   ],
+   "55": [
+    "BSB/Psalms/Psalm_055_part1.mp3",
+    "BSB/Psalms/Psalm_055_part2.mp3"
+   ],
+   "56": [
+    "BSB/Psalms/Psalm_056_part1.mp3",
+    "BSB/Psalms/Psalm_056_part2.mp3"
+   ],
+   "57": [
+    "BSB/Psalms/Psalm_057.mp3"
+   ],
+   "58": [
+    "BSB/Psalms/Psalm_058.mp3"
+   ],
+   "59": [
+    "BSB/Psalms/Psalm_059.mp3"
+   ],
+   "60": [
+    "BSB/Psalms/Psalm_060.mp3"
+   ],
+   "61": [
+    "BSB/Psalms/Psalm_061_part1.mp3",
+    "BSB/Psalms/Psalm_061_part2.mp3"
+   ],
+   "62": [
+    "BSB/Psalms/Psalm_062_part1.mp3",
+    "BSB/Psalms/Psalm_062_part2.mp3",
+    "BSB/Psalms/Psalm_062_part3.mp3"
+   ],
+   "63": [
+    "BSB/Psalms/Psalm_063.mp3"
+   ],
+   "64": [
+    "BSB/Psalms/Psalm_064.mp3"
+   ],
+   "65": [
+    "BSB/Psalms/Psalm_065.mp3"
+   ],
+   "66": [
+    "BSB/Psalms/Psalm_066_part1.mp3",
+    "BSB/Psalms/Psalm_066_part2.mp3"
+   ],
+   "67": [
+    "BSB/Psalms/Psalm_067.mp3"
+   ],
+   "68": [
+    "BSB/Psalms/Psalm_068_part1.mp3",
+    "BSB/Psalms/Psalm_068_part2.mp3"
+   ],
+   "69": [
+    "BSB/Psalms/Psalm_069.mp3"
+   ],
+   "70": [
+    "BSB/Psalms/Psalm_070.mp3"
+   ],
+   "71": [
+    "BSB/Psalms/Psalm_071_part1.mp3",
+    "BSB/Psalms/Psalm_071_part2.mp3",
+    "BSB/Psalms/Psalm_071_part3.mp3",
+    "BSB/Psalms/Psalm_071_part4.mp3"
+   ],
+   "72": [
+    "BSB/Psalms/Psalm_072.mp3"
+   ],
+   "73": [
+    "BSB/Psalms/Psalm_073_part1.mp3",
+    "BSB/Psalms/Psalm_073_part2.mp3"
+   ],
+   "74": [
+    "BSB/Psalms/Psalm_074.mp3"
+   ],
+   "75": [
+    "BSB/Psalms/Psalm_075.mp3"
+   ],
+   "76": [
+    "BSB/Psalms/Psalm_076.mp3"
+   ],
+   "77": [
+    "BSB/Psalms/Psalm_077.mp3"
+   ],
+   "78": [
+    "BSB/Psalms/Psalm_078_part1.mp3",
+    "BSB/Psalms/Psalm_078_part2.mp3",
+    "BSB/Psalms/Psalm_078_part3.mp3"
+   ],
+   "79": [
+    "BSB/Psalms/Psalm_079.mp3"
+   ],
+   "80": [
+    "BSB/Psalms/Psalm_080.mp3"
+   ],
+   "81": [
+    "BSB/Psalms/Psalm_081.mp3"
+   ],
+   "82": [
+    "BSB/Psalms/Psalm_082_part1.mp3",
+    "BSB/Psalms/Psalm_082_part2.mp3"
+   ],
+   "83": [
+    "BSB/Psalms/Psalm_083.mp3"
+   ],
+   "84": [
+    "BSB/Psalms/Psalm_084.mp3"
+   ],
+   "85": [
+    "BSB/Psalms/Psalm_085.mp3"
+   ],
+   "86": [
+    "BSB/Psalms/Psalm_086_part1.mp3",
+    "BSB/Psalms/Psalm_086_part2.mp3"
+   ],
+   "87": [
+    "BSB/Psalms/Psalm_087.mp3"
+   ],
+   "88": [
+    "BSB/Psalms/Psalm_088.mp3"
+   ],
+   "89": [
+    "BSB/Psalms/Psalm_089.mp3"
+   ],
+   "90": [
+    "BSB/Psalms/Psalm_090_part1.mp3",
+    "BSB/Psalms/Psalm_090_part2.mp3",
+    "BSB/Psalms/Psalm_090_part3.mp3",
+    "BSB/Psalms/Psalm_090_part4.mp3"
+   ],
+   "91": [
+    "BSB/Psalms/Psalm_091_part1.mp3",
+    "BSB/Psalms/Psalm_091_part2.mp3"
+   ],
+   "92": [
+    "BSB/Psalms/Psalm_092_part1.mp3",
+    "BSB/Psalms/Psalm_092_part2.mp3"
+   ],
+   "93": [
+    "BSB/Psalms/Psalm_093.mp3"
+   ],
+   "94": [
+    "BSB/Psalms/Psalm_094_part1.mp3",
+    "BSB/Psalms/Psalm_094_part2.mp3"
+   ],
+   "95": [
+    "BSB/Psalms/Psalm_095.mp3"
+   ],
+   "96": [
+    "BSB/Psalms/Psalm_096.mp3"
+   ],
+   "97": [
+    "BSB/Psalms/Psalm_097.mp3"
+   ],
+   "98": [
+    "BSB/Psalms/Psalm_098.mp3"
+   ],
+   "99": [
+    "BSB/Psalms/Psalm_099.mp3"
+   ],
+   "100": [
+    "BSB/Psalms/Psalm_100_part1.mp3",
+    "BSB/Psalms/Psalm_100_part2.mp3"
+   ],
+   "101": [
+    "BSB/Psalms/Psalm_101.mp3"
+   ],
+   "102": [
+    "BSB/Psalms/Psalm_102.mp3"
+   ],
+   "103": [
+    "BSB/Psalms/Psalm_103_part1.mp3",
+    "BSB/Psalms/Psalm_103_part2.mp3",
+    "BSB/Psalms/Psalm_103_part3.mp3",
+    "BSB/Psalms/Psalm_103_part4.mp3",
+    "BSB/Psalms/Psalm_103_part5.mp3"
+   ],
+   "104": [
+    "BSB/Psalms/Psalm_104.mp3"
+   ],
+   "105": [
+    "BSB/Psalms/Psalm_105.mp3"
+   ],
+   "106": [
+    "BSB/Psalms/Psalm_106.mp3"
+   ],
+   "107": [
+    "BSB/Psalms/Psalm_107.mp3"
+   ],
+   "108": [
+    "BSB/Psalms/Psalm_108.mp3"
+   ],
+   "109": [
+    "BSB/Psalms/Psalm_109.mp3"
+   ],
+   "110": [
+    "BSB/Psalms/Psalm_110.mp3"
+   ],
+   "111": [
+    "BSB/Psalms/Psalm_111.mp3"
+   ],
+   "112": [
+    "BSB/Psalms/Psalm_112_part1.mp3",
+    "BSB/Psalms/Psalm_112_part2.mp3"
+   ],
+   "113": [
+    "BSB/Psalms/Psalm_113.mp3"
+   ],
+   "114": [
+    "BSB/Psalms/Psalm_114.mp3"
+   ],
+   "115": [
+    "BSB/Psalms/Psalm_115.mp3"
+   ],
+   "116": [
+    "BSB/Psalms/Psalm_116_part1.mp3",
+    "BSB/Psalms/Psalm_116_part2.mp3",
+    "BSB/Psalms/Psalm_116_part3.mp3"
+   ],
+   "117": [
+    "BSB/Psalms/Psalm_117.mp3"
+   ],
+   "118": [
+    "BSB/Psalms/Psalm_118_part1.mp3",
+    "BSB/Psalms/Psalm_118_part2.mp3",
+    "BSB/Psalms/Psalm_118_part3.mp3",
+    "BSB/Psalms/Psalm_118_part4.mp3"
+   ],
+   "119": [
+    "BSB/Psalms/Psalm_119_part1.mp3",
+    "BSB/Psalms/Psalm_119_part2.mp3",
+    "BSB/Psalms/Psalm_119_part3.mp3",
+    "BSB/Psalms/Psalm_119_part4.mp3",
+    "BSB/Psalms/Psalm_119_part5.mp3",
+    "BSB/Psalms/Psalm_119_part6.mp3",
+    "BSB/Psalms/Psalm_119_part7.mp3"
+   ],
+   "120": [
+    "BSB/Psalms/Psalm_120.mp3"
+   ],
+   "121": [
+    "BSB/Psalms/Psalm_121_part1.mp3",
+    "BSB/Psalms/Psalm_121_part2.mp3",
+    "BSB/Psalms/Psalm_121_part3.mp3"
+   ],
+   "122": [
+    "BSB/Psalms/Psalm_122.mp3"
+   ],
+   "123": [
+    "BSB/Psalms/Psalm_123.mp3"
+   ],
+   "124": [
+    "BSB/Psalms/Psalm_124.mp3"
+   ],
+   "125": [
+    "BSB/Psalms/Psalm_125_part1.mp3",
+    "BSB/Psalms/Psalm_125_part2.mp3"
+   ],
+   "126": [
+    "BSB/Psalms/Psalm_126_part1.mp3",
+    "BSB/Psalms/Psalm_126_part2.mp3",
+    "BSB/Psalms/Psalm_126_part3.mp3"
+   ],
+   "127": [
+    "BSB/Psalms/Psalm_127_part1.mp3",
+    "BSB/Psalms/Psalm_127_part2.mp3",
+    "BSB/Psalms/Psalm_127_part3.mp3"
+   ],
+   "128": [
+    "BSB/Psalms/Psalm_128.mp3"
+   ],
+   "129": [
+    "BSB/Psalms/Psalm_129.mp3"
+   ],
+   "130": [
+    "BSB/Psalms/Psalm_130_part1.mp3",
+    "BSB/Psalms/Psalm_130_part2.mp3",
+    "BSB/Psalms/Psalm_130_part3.mp3"
+   ],
+   "131": [
+    "BSB/Psalms/Psalm_131.mp3"
+   ],
+   "132": [
+    "BSB/Psalms/Psalm_132.mp3"
+   ],
+   "133": [
+    "BSB/Psalms/Psalm_133.mp3"
+   ],
+   "134": [
+    "BSB/Psalms/Psalm_134.mp3"
+   ],
+   "135": [
+    "BSB/Psalms/Psalm_135.mp3"
+   ],
+   "136": [
+    "BSB/Psalms/Psalm_136.mp3"
+   ],
+   "137": [
+    "BSB/Psalms/Psalm_137.mp3"
+   ],
+   "138": [
+    "BSB/Psalms/Psalm_138.mp3"
+   ],
+   "139": [
+    "BSB/Psalms/Psalm_139_part1.mp3",
+    "BSB/Psalms/Psalm_139_part2.mp3"
+   ],
+   "140": [
+    "BSB/Psalms/Psalm_140.mp3"
+   ],
+   "141": [
+    "BSB/Psalms/Psalm_141.mp3"
+   ],
+   "142": [
+    "BSB/Psalms/Psalm_142.mp3"
+   ],
+   "143": [
+    "BSB/Psalms/Psalm_143.mp3"
+   ],
+   "144": [
+    "BSB/Psalms/Psalm_144.mp3"
+   ],
+   "145": [
+    "BSB/Psalms/Psalm_145.mp3"
+   ],
+   "146": [
+    "BSB/Psalms/Psalm_146.mp3"
+   ],
+   "147": [
+    "BSB/Psalms/Psalm_147.mp3"
+   ],
+   "148": [
+    "BSB/Psalms/Psalm_148.mp3"
+   ],
+   "149": [
+    "BSB/Psalms/Psalm_149.mp3"
+   ],
+   "150": [
+    "BSB/Psalms/Psalm_150_part1.mp3",
+    "BSB/Psalms/Psalm_150_part2.mp3"
+   ]
+  },
+  "Proverbs": {
+   "1": [
+    "BSB/Proverbs/Proverbs_01_part1.mp3",
+    "BSB/Proverbs/Proverbs_01_part2.mp3"
+   ],
+   "2": [
+    "BSB/Proverbs/Proverbs_02.mp3"
+   ],
+   "3": [
+    "BSB/Proverbs/Proverbs_03.mp3"
+   ],
+   "4": [
+    "BSB/Proverbs/Proverbs_04.mp3"
+   ],
+   "5": [
+    "BSB/Proverbs/Proverbs_05.mp3"
+   ],
+   "6": [
+    "BSB/Proverbs/Proverbs_06.mp3"
+   ],
+   "7": [
+    "BSB/Proverbs/Proverbs_07.mp3"
+   ],
+   "8": [
+    "BSB/Proverbs/Proverbs_08.mp3"
+   ],
+   "9": [
+    "BSB/Proverbs/Proverbs_09.mp3"
+   ],
+   "10": [
+    "BSB/Proverbs/Proverbs_10.mp3"
+   ],
+   "11": [
+    "BSB/Proverbs/Proverbs_11.mp3"
+   ],
+   "12": [
+    "BSB/Proverbs/Proverbs_12.mp3"
+   ],
+   "13": [
+    "BSB/Proverbs/Proverbs_13.mp3"
+   ],
+   "14": [
+    "BSB/Proverbs/Proverbs_14.mp3"
+   ],
+   "15": [
+    "BSB/Proverbs/Proverbs_15.mp3"
+   ],
+   "16": [
+    "BSB/Proverbs/Proverbs_16.mp3"
+   ],
+   "17": [
+    "BSB/Proverbs/Proverbs_17.mp3"
+   ],
+   "18": [
+    "BSB/Proverbs/Proverbs_18_part1.mp3",
+    "BSB/Proverbs/Proverbs_18_part2.mp3"
+   ],
+   "19": [
+    "BSB/Proverbs/Proverbs_19.mp3"
+   ],
+   "20": [
+    "BSB/Proverbs/Proverbs_20.mp3"
+   ],
+   "21": [
+    "BSB/Proverbs/Proverbs_21.mp3"
+   ],
+   "22": [
+    "BSB/Proverbs/Proverbs_22_part1.mp3",
+    "BSB/Proverbs/Proverbs_22_part2.mp3"
+   ],
+   "23": [
+    "BSB/Proverbs/Proverbs_23.mp3"
+   ],
+   "24": [
+    "BSB/Proverbs/Proverbs_24.mp3"
+   ],
+   "25": [
+    "BSB/Proverbs/Proverbs_25.mp3"
+   ],
+   "26": [
+    "BSB/Proverbs/Proverbs_26.mp3"
+   ],
+   "28": [
+    "BSB/Proverbs/Proverbs_28.mp3"
+   ],
+   "29": [
+    "BSB/Proverbs/Proverbs_29.mp3"
+   ],
+   "27": [
+    "BSB/Proverbs/Proverbs_27.mp3"
+   ],
+   "30": [
+    "BSB/Proverbs/Proverbs_30.mp3"
+   ],
+   "31": [
+    "BSB/Proverbs/Proverbs_31.mp3"
+   ]
+  },
+  "verses": {
+   "Psalms 78:52-72": "BSB/Verses/Psalms_78_52-72.mp3",
+   "Proverbs 1:8-9": "BSB/Verses/Proverbs_1_8-9.mp3",
+   "Proverbs 1:7": "BSB/Verses/Proverbs_1_7.mp3",
+   "Proverbs 19:21": "BSB/Verses/Proverbs_19_21.mp3",
+   "Proverbs 19:11": "BSB/Verses/Proverbs_19_11.mp3",
+   "Proverbs 18:24": "BSB/Verses/Proverbs_18_24.mp3",
+   "Proverbs 18:15": "BSB/Verses/Proverbs_18_15.mp3",
+   "Proverbs 18:22": "BSB/Verses/Proverbs_18_22.mp3",
+   "Proverbs 18:10": "BSB/Verses/Proverbs_18_10.mp3",
+   "Proverbs 17:6": "BSB/Verses/Proverbs_17_6.mp3",
+   "Proverbs 16:9": "BSB/Verses/Proverbs_16_9.mp3",
+   "Proverbs 17:17": "BSB/Verses/Proverbs_17_17.mp3",
+   "Proverbs 17:27": "BSB/Verses/Proverbs_17_27.mp3",
+   "Proverbs 17:22": "BSB/Verses/Proverbs_17_22.mp3",
+   "Proverbs 16:32": "BSB/Verses/Proverbs_16_32.mp3",
+   "Proverbs 16:1-3": "BSB/Verses/Proverbs_16_1-3.mp3",
+   "Proverbs 16:31": "BSB/Verses/Proverbs_16_31.mp3",
+   "Proverbs 16:18-19": "BSB/Verses/Proverbs_16_18-19.mp3",
+   "Proverbs 15:22": "BSB/Verses/Proverbs_15_22.mp3",
+   "Proverbs 14:31": "BSB/Verses/Proverbs_14_31.mp3",
+   "Proverbs 14:23": "BSB/Verses/Proverbs_14_23.mp3",
+   "Proverbs 14:30": "BSB/Verses/Proverbs_14_30.mp3",
+   "Proverbs 14:29": "BSB/Verses/Proverbs_14_29.mp3",
+   "Proverbs 13:24": "BSB/Verses/Proverbs_13_24.mp3",
+   "Proverbs 13:11": "BSB/Verses/Proverbs_13_11.mp3",
+   "Proverbs 13:20": "BSB/Verses/Proverbs_13_20.mp3",
+   "Proverbs 12:25": "BSB/Verses/Proverbs_12_25.mp3",
+   "Proverbs 11:24-25": "BSB/Verses/Proverbs_11_24-25.mp3",
+   "Proverbs 12:24": "BSB/Verses/Proverbs_12_24.mp3",
+   "Proverbs 12:22": "BSB/Verses/Proverbs_12_22.mp3",
+   "Proverbs 11:3": "BSB/Verses/Proverbs_11_3.mp3",
+   "Proverbs 11:2": "BSB/Verses/Proverbs_11_2.mp3",
+   "Proverbs 11:14": "BSB/Verses/Proverbs_11_14.mp3",
+   "Proverbs 10:9": "BSB/Verses/Proverbs_10_9.mp3",
+   "Philippians 3:13-14": "BSB/Verses/Philippians_3_13-14.mp3",
+   "Philippians 4:12": "BSB/Verses/Philippians_4_12.mp3",
+   "Proverbs 10:4": "BSB/Verses/Proverbs_10_4.mp3",
+   "Zechariah 7:9-10": "BSB/Verses/Zechariah_7_9-10.mp3",
+   "Proverbs 10:22": "BSB/Verses/Proverbs_10_22.mp3",
+   "Zephaniah 3:17": "BSB/Verses/Zephaniah_3_17.mp3",
+   "Micah 7:18-19": "BSB/Verses/Micah_7_18-19.mp3",
+   "Zechariah 4:6": "BSB/Verses/Zechariah_4_6.mp3",
+   "Song of Solomon 8:7": "BSB/Verses/Song_of_Solomon_8_7.mp3",
+   "Nehemiah 8:10": "BSB/Verses/Nehemiah_8_10.mp3",
+   "Philippians 1:6": "BSB/Verses/Philippians_1_6.mp3",
+   "Philippians 2:13": "BSB/Verses/Philippians_2_13.mp3",
+   "Romans 8:37": "BSB/Verses/Romans_8_37.mp3",
+   "Micah 7:8": "BSB/Verses/Micah_7_8.mp3",
+   "Nahum 1:7": "BSB/Verses/Nahum_1_7.mp3",
+   "Romans 8:26": "BSB/Verses/Romans_8_26.mp3",
+   "Romans 8:15-16": "BSB/Verses/Romans_8_15-16.mp3",
+   "Romans 8:31": "BSB/Verses/Romans_8_31.mp3",
+   "Romans 8:18": "BSB/Verses/Romans_8_18.mp3",
+   "Romans 12:19-21": "BSB/Verses/Romans_12_19-21.mp3",
+   "Matthew 6:25-27": "BSB/Verses/Matthew_6_25-27.mp3",
+   "Romans 5:5": "BSB/Verses/Romans_5_5.mp3",
+   "Matthew 9:12": "BSB/Verses/Matthew_9_12.mp3",
+   "Matthew 6:19-21": "BSB/Verses/Matthew_6_19-21.mp3",
+   "Romans 3:23-24": "BSB/Verses/Romans_3_23-24.mp3",
+   "Matthew 6:31-32": "BSB/Verses/Matthew_6_31-32.mp3",
+   "Romans 15:7": "BSB/Verses/Romans_15_7.mp3",
+   "Romans 12:3": "BSB/Verses/Romans_12_3.mp3",
+   "Romans 12:15-16": "BSB/Verses/Romans_12_15-16.mp3",
+   "Matthew 5:14-16": "BSB/Verses/Matthew_5_14-16.mp3",
+   "Romans 12:1": "BSB/Verses/Romans_12_1.mp3",
+   "Romans 12:18": "BSB/Verses/Romans_12_18.mp3",
+   "Romans 12:10": "BSB/Verses/Romans_12_10.mp3",
+   "Matthew 6:24": "BSB/Verses/Matthew_6_24.mp3",
+   "Romans 10:17": "BSB/Verses/Romans_10_17.mp3",
+   "Matthew 6:14-15": "BSB/Verses/Matthew_6_14-15.mp3",
+   "Revelation 3:20": "BSB/Verses/Revelation_3_20.mp3",
+   "Matthew 25:35-36": "BSB/Verses/Matthew_25_35-36.mp3",
+   "Matthew 26:41": "BSB/Verses/Matthew_26_41.mp3",
+   "Psalms 9:10": "BSB/Verses/Psalms_9_10.mp3",
+   "Romans 10:13": "BSB/Verses/Romans_10_13.mp3",
+   "Matthew 23:11-12": "BSB/Verses/Matthew_23_11-12.mp3",
+   "Psalms 92:14": "BSB/Verses/Psalms_92_14.mp3",
+   "Matthew 19:5-6": "BSB/Verses/Matthew_19_5-6.mp3",
+   "Psalms 94:19": "BSB/Verses/Psalms_94_19.mp3",
+   "Matthew 21:22": "BSB/Verses/Matthew_21_22.mp3",
+   "Psalms 78:4-7": "BSB/Verses/Psalms_78_4-7.mp3",
+   "Psalms 91:11": "BSB/Verses/Psalms_91_11.mp3",
+   "Psalms 90:14": "BSB/Verses/Psalms_90_14.mp3",
+   "Matthew 18:19-20": "BSB/Verses/Matthew_18_19-20.mp3",
+   "Matthew 19:14": "BSB/Verses/Matthew_19_14.mp3",
+   "Psalms 90:17": "BSB/Verses/Psalms_90_17.mp3",
+   "Psalms 91:1-2": "BSB/Verses/Psalms_91_1-2.mp3",
+   "Mark 6:31": "BSB/Verses/Mark_6_31.mp3",
+   "Mark 9:23-24": "BSB/Verses/Mark_9_23-24.mp3",
+   "Psalms 86:5": "BSB/Verses/Psalms_86_5.mp3",
+   "Psalms 82:3-4": "BSB/Verses/Psalms_82_3-4.mp3",
+   "Psalms 90:12": "BSB/Verses/Psalms_90_12.mp3",
+   "Mark 2:17": "BSB/Verses/Mark_2_17.mp3",
+   "Mark 10:43-45": "BSB/Verses/Mark_10_43-45.mp3",
+   "Psalms 73:26": "BSB/Verses/Psalms_73_26.mp3",
+   "Mark 1:35": "BSB/Verses/Mark_1_35.mp3",
+   "Luke 6:37": "BSB/Verses/Luke_6_37.mp3",
+   "Psalms 71:18": "BSB/Verses/Psalms_71_18.mp3",
+   "Mark 11:24": "BSB/Verses/Mark_11_24.mp3",
+   "Psalms 71:9": "BSB/Verses/Psalms_71_9.mp3",
+   "Psalms 68:5-6": "BSB/Verses/Psalms_68_5-6.mp3",
+   "Luke 18:1": "BSB/Verses/Luke_18_1.mp3",
+   "Psalms 71:14": "BSB/Verses/Psalms_71_14.mp3",
+   "Psalms 62:8": "BSB/Verses/Psalms_62_8.mp3",
+   "Psalms 62:7": "BSB/Verses/Psalms_62_7.mp3",
+   "Luke 10:33-34": "BSB/Verses/Luke_10_33-34.mp3",
+   "Psalms 66:12": "BSB/Verses/Psalms_66_12.mp3",
+   "Luke 16:10": "BSB/Verses/Luke_16_10.mp3",
+   "Jude 1:24-25": "BSB/Verses/Jude_1_24-25.mp3",
+   "Luke 12:15": "BSB/Verses/Luke_12_15.mp3",
+   "Psalms 61:3": "BSB/Verses/Psalms_61_3.mp3",
+   "Psalms 5:11-12": "BSB/Verses/Psalms_5_11-12.mp3",
+   "Lamentations 3:21-23": "BSB/Verses/Lamentations_3_21-23.mp3",
+   "Psalms 5:3": "BSB/Verses/Psalms_5_3.mp3",
+   "John 20:29": "BSB/Verses/John_20_29.mp3",
+   "John 5:24": "BSB/Verses/John_5_24.mp3",
+   "Psalms 56:3-4": "BSB/Verses/Psalms_56_3-4.mp3",
+   "John 1:12": "BSB/Verses/John_1_12.mp3",
+   "John 15:16": "BSB/Verses/John_15_16.mp3",
+   "John 15:13": "BSB/Verses/John_15_13.mp3",
+   "Psalms 55:22": "BSB/Verses/Psalms_55_22.mp3",
+   "Psalms 56:3": "BSB/Verses/Psalms_56_3.mp3",
+   "John 15:7": "BSB/Verses/John_15_7.mp3",
+   "John 15:11": "BSB/Verses/John_15_11.mp3",
+   "John 14:18": "BSB/Verses/John_14_18.mp3",
+   "Psalms 48:14": "BSB/Verses/Psalms_48_14.mp3",
+   "John 11:25-26": "BSB/Verses/John_11_25-26.mp3",
+   "Psalms 40:3": "BSB/Verses/Psalms_40_3.mp3",
+   "Joel 2:25": "BSB/Verses/Joel_2_25.mp3",
+   "John 13:14-15": "BSB/Verses/John_13_14-15.mp3",
+   "Psalms 37:7-8": "BSB/Verses/Psalms_37_7-8.mp3",
+   "John 10:10": "BSB/Verses/John_10_10.mp3",
+   "Psalms 3:3": "BSB/Verses/Psalms_3_3.mp3",
+   "Psalms 37:39-40": "BSB/Verses/Psalms_37_39-40.mp3",
+   "Jeremiah 17:7-8": "BSB/Verses/Jeremiah_17_7-8.mp3",
+   "Psalms 37:4-5": "BSB/Verses/Psalms_37_4-5.mp3",
+   "Job 19:25-26": "BSB/Verses/Job_19_25-26.mp3",
+   "Job 23:10": "BSB/Verses/Job_23_10.mp3",
+   "Job 1:21": "BSB/Verses/Job_1_21.mp3",
+   "Psalms 37:3": "BSB/Verses/Psalms_37_3.mp3",
+   "Job 12:12": "BSB/Verses/Job_12_12.mp3",
+   "James 5:14-15": "BSB/Verses/James_5_14-15.mp3",
+   "Psalms 37:23-24": "BSB/Verses/Psalms_37_23-24.mp3",
+   "Psalms 37:19": "BSB/Verses/Psalms_37_19.mp3",
+   "Jeremiah 31:13": "BSB/Verses/Jeremiah_31_13.mp3",
+   "Psalms 37:25": "BSB/Verses/Psalms_37_25.mp3",
+   "Jeremiah 1:5": "BSB/Verses/Jeremiah_1_5.mp3",
+   "Psalms 34:17-18": "BSB/Verses/Psalms_34_17-18.mp3",
+   "Psalms 34:4": "BSB/Verses/Psalms_34_4.mp3",
+   "Psalms 34:19": "BSB/Verses/Psalms_34_19.mp3",
+   "Psalms 34:7": "BSB/Verses/Psalms_34_7.mp3",
+   "James 5:16": "BSB/Verses/James_5_16.mp3",
+   "Jeremiah 17:14": "BSB/Verses/Jeremiah_17_14.mp3",
+   "James 4:10": "BSB/Verses/James_4_10.mp3",
+   "Psalms 34:10": "BSB/Verses/Psalms_34_10.mp3",
+   "Psalms 34:15": "BSB/Verses/Psalms_34_15.mp3",
+   "Psalms 33:3": "BSB/Verses/Psalms_33_3.mp3",
+   "James 1:6": "BSB/Verses/James_1_6.mp3",
+   "James 1:27": "BSB/Verses/James_1_27.mp3",
+   "Isaiah 61:1-3": "BSB/Verses/Isaiah_61_1-3.mp3",
+   "James 3:1": "BSB/Verses/James_3_1.mp3",
+   "Psalms 33:10-11": "BSB/Verses/Psalms_33_10-11.mp3",
+   "James 1:17": "BSB/Verses/James_1_17.mp3",
+   "Psalms 32:7": "BSB/Verses/Psalms_32_7.mp3",
+   "Psalms 30:11": "BSB/Verses/Psalms_30_11.mp3",
+   "Psalms 28:7": "BSB/Verses/Psalms_28_7.mp3",
+   "Isaiah 9:6": "BSB/Verses/Isaiah_9_6.mp3",
+   "Psalms 31:24": "BSB/Verses/Psalms_31_24.mp3",
+   "James 1:12": "BSB/Verses/James_1_12.mp3",
+   "Psalms 25:4-5": "BSB/Verses/Psalms_25_4-5.mp3",
+   "Psalms 27:10": "BSB/Verses/Psalms_27_10.mp3",
+   "Isaiah 61:3": "BSB/Verses/Isaiah_61_3.mp3",
+   "Psalms 25:16-18": "BSB/Verses/Psalms_25_16-18.mp3",
+   "Isaiah 65:24": "BSB/Verses/Isaiah_65_24.mp3",
+   "Isaiah 54:4-5": "BSB/Verses/Isaiah_54_4-5.mp3",
+   "Psalms 18:2": "BSB/Verses/Psalms_18_2.mp3",
+   "Psalms 20:7": "BSB/Verses/Psalms_20_7.mp3",
+   "Psalms 16:8": "BSB/Verses/Psalms_16_8.mp3",
+   "Isaiah 58:11": "BSB/Verses/Isaiah_58_11.mp3",
+   "Psalms 150:6": "BSB/Verses/Psalms_150_6.mp3",
+   "Isaiah 54:17": "BSB/Verses/Isaiah_54_17.mp3",
+   "Psalms 145:18": "BSB/Verses/Psalms_145_18.mp3",
+   "Psalms 145:14": "BSB/Verses/Psalms_145_14.mp3",
+   "Psalms 143:7-8": "BSB/Verses/Psalms_143_7-8.mp3",
+   "Isaiah 53:5-6": "BSB/Verses/Isaiah_53_5-6.mp3",
+   "Isaiah 54:13": "BSB/Verses/Isaiah_54_13.mp3",
+   "Psalms 139:7-10": "BSB/Verses/Psalms_139_7-10.mp3",
+   "Isaiah 49:15-16": "BSB/Verses/Isaiah_49_15-16.mp3",
+   "Psalms 143:8": "BSB/Verses/Psalms_143_8.mp3",
+   "Isaiah 54:10": "BSB/Verses/Isaiah_54_10.mp3",
+   "Isaiah 46:4": "BSB/Verses/Isaiah_46_4.mp3",
+   "Psalms 141:2": "BSB/Verses/Psalms_141_2.mp3",
+   "Isaiah 40:28-31": "BSB/Verses/Isaiah_40_28-31.mp3",
+   "Isaiah 43:25": "BSB/Verses/Isaiah_43_25.mp3",
+   "Psalms 138:7-8": "BSB/Verses/Psalms_138_7-8.mp3",
+   "Psalms 138:8": "BSB/Verses/Psalms_138_8.mp3",
+   "Isaiah 43:18-19": "BSB/Verses/Isaiah_43_18-19.mp3",
+   "Psalms 138:3": "BSB/Verses/Psalms_138_3.mp3",
+   "Isaiah 40:29-31": "BSB/Verses/Isaiah_40_29-31.mp3",
+   "Psalms 127:3-5": "BSB/Verses/Psalms_127_3-5.mp3",
+   "Isaiah 43:1": "BSB/Verses/Isaiah_43_1.mp3",
+   "Psalms 130:3-4": "BSB/Verses/Psalms_130_3-4.mp3",
+   "Psalms 130:5": "BSB/Verses/Psalms_130_5.mp3",
+   "1 Chronicles 16:34": "BSB/Verses/1_Chronicles_16_34.mp3",
+   "Psalms 127:2": "BSB/Verses/Psalms_127_2.mp3",
+   "Psalms 126:5-6": "BSB/Verses/Psalms_126_5-6.mp3",
+   "Isaiah 41:13": "BSB/Verses/Isaiah_41_13.mp3",
+   "Isaiah 30:21": "BSB/Verses/Isaiah_30_21.mp3",
+   "Psalms 126:3": "BSB/Verses/Psalms_126_3.mp3",
+   "Isaiah 25:8": "BSB/Verses/Isaiah_25_8.mp3",
+   "Psalms 119:9-11": "BSB/Verses/Psalms_119_9-11.mp3",
+   "Isaiah 30:15": "BSB/Verses/Isaiah_30_15.mp3",
+   "Psalms 125:2": "BSB/Verses/Psalms_125_2.mp3",
+   "Psalms 121:7-8": "BSB/Verses/Psalms_121_7-8.mp3",
+   "Isaiah 26:4": "BSB/Verses/Isaiah_26_4.mp3",
+   "Psalms 121:3-4": "BSB/Verses/Psalms_121_3-4.mp3",
+   "Isaiah 1:18": "BSB/Verses/Isaiah_1_18.mp3",
+   "Psalms 118:8-9": "BSB/Verses/Psalms_118_8-9.mp3",
+   "Hebrews 8:12": "BSB/Verses/Hebrews_8_12.mp3",
+   "Psalms 119:50": "BSB/Verses/Psalms_119_50.mp3",
+   "Hebrews 6:19": "BSB/Verses/Hebrews_6_19.mp3",
+   "Isaiah 1:17": "BSB/Verses/Isaiah_1_17.mp3",
+   "Psalms 119:71": "BSB/Verses/Psalms_119_71.mp3",
+   "Psalms 116:7": "BSB/Verses/Psalms_116_7.mp3",
+   "Psalms 118:6": "BSB/Verses/Psalms_118_6.mp3",
+   "Hebrews 4:9-10": "BSB/Verses/Hebrews_4_9-10.mp3",
+   "Psalms 112:7": "BSB/Verses/Psalms_112_7.mp3",
+   "Psalms 10:17": "BSB/Verses/Psalms_10_17.mp3",
+   "Hebrews 13:20-21": "BSB/Verses/Hebrews_13_20-21.mp3",
+   "Hebrews 12:1-2": "BSB/Verses/Hebrews_12_1-2.mp3",
+   "Psalms 112:1-2": "BSB/Verses/Psalms_112_1-2.mp3",
+   "Hebrews 4:15-16": "BSB/Verses/Hebrews_4_15-16.mp3",
+   "Hebrews 13:5-6": "BSB/Verses/Hebrews_13_5-6.mp3",
+   "Psalms 103:2-3": "BSB/Verses/Psalms_103_2-3.mp3",
+   "Psalms 103:19": "BSB/Verses/Psalms_103_19.mp3",
+   "Psalms 103:13": "BSB/Verses/Psalms_103_13.mp3",
+   "Proverbs 6:6-8": "BSB/Verses/Proverbs_6_6-8.mp3",
+   "Hebrews 13:4": "BSB/Verses/Hebrews_13_4.mp3",
+   "Proverbs 9:9": "BSB/Verses/Proverbs_9_9.mp3",
+   "Proverbs 5:18-19": "BSB/Verses/Proverbs_5_18-19.mp3",
+   "Hebrews 10:24-25": "BSB/Verses/Hebrews_10_24-25.mp3",
+   "Habakkuk 3:17-18": "BSB/Verses/Habakkuk_3_17-18.mp3",
+   "Hebrews 10:35-36": "BSB/Verses/Hebrews_10_35-36.mp3",
+   "Hebrews 11:6": "BSB/Verses/Hebrews_11_6.mp3",
+   "Habakkuk 3:19": "BSB/Verses/Habakkuk_3_19.mp3",
+   "Proverbs 4:20-22": "BSB/Verses/Proverbs_4_20-22.mp3",
+   "Proverbs 3:9-10": "BSB/Verses/Proverbs_3_9-10.mp3",
+   "Proverbs 4:7": "BSB/Verses/Proverbs_4_7.mp3",
+   "Genesis 2:2-3": "BSB/Verses/Genesis_2_2-3.mp3",
+   "Proverbs 3:27": "BSB/Verses/Proverbs_3_27.mp3",
+   "Genesis 50:20": "BSB/Verses/Genesis_50_20.mp3",
+   "Proverbs 3:25-26": "BSB/Verses/Proverbs_3_25-26.mp3",
+   "Proverbs 3:24": "BSB/Verses/Proverbs_3_24.mp3",
+   "Proverbs 3:13": "BSB/Verses/Proverbs_3_13.mp3",
+   "Genesis 1:27": "BSB/Verses/Genesis_1_27.mp3",
+   "Genesis 2:24": "BSB/Verses/Genesis_2_24.mp3",
+   "Proverbs 31:10-12": "BSB/Verses/Proverbs_31_10-12.mp3",
+   "Galatians 5:16": "BSB/Verses/Galatians_5_16.mp3",
+   "Proverbs 31:8-9": "BSB/Verses/Proverbs_31_8-9.mp3",
+   "Proverbs 29:7": "BSB/Verses/Proverbs_29_7.mp3",
+   "Proverbs 2:6": "BSB/Verses/Proverbs_2_6.mp3",
+   "Galatians 5:1": "BSB/Verses/Galatians_5_1.mp3",
+   "Galatians 2:20": "BSB/Verses/Galatians_2_20.mp3",
+   "Galatians 5:13": "BSB/Verses/Galatians_5_13.mp3",
+   "Proverbs 29:2": "BSB/Verses/Proverbs_29_2.mp3",
+   "Proverbs 29:17": "BSB/Verses/Proverbs_29_17.mp3",
+   "Proverbs 29:11": "BSB/Verses/Proverbs_29_11.mp3",
+   "Ephesians 6:7-8": "BSB/Verses/Ephesians_6_7-8.mp3",
+   "Proverbs 28:6": "BSB/Verses/Proverbs_28_6.mp3",
+   "Exodus 33:14": "BSB/Verses/Exodus_33_14.mp3",
+   "Ephesians 6:10-11": "BSB/Verses/Ephesians_6_10-11.mp3",
+   "Ephesians 6:18": "BSB/Verses/Ephesians_6_18.mp3",
+   "Exodus 14:14": "BSB/Verses/Exodus_14_14.mp3",
+   "Proverbs 28:13": "BSB/Verses/Proverbs_28_13.mp3",
+   "Proverbs 23:24-25": "BSB/Verses/Proverbs_23_24-25.mp3",
+   "Proverbs 24:16": "BSB/Verses/Proverbs_24_16.mp3",
+   "Proverbs 27:17": "BSB/Verses/Proverbs_27_17.mp3",
+   "Ephesians 6:10": "BSB/Verses/Ephesians_6_10.mp3",
+   "Proverbs 22:4": "BSB/Verses/Proverbs_22_4.mp3",
+   "Proverbs 22:7": "BSB/Verses/Proverbs_22_7.mp3",
+   "Proverbs 23:18": "BSB/Verses/Proverbs_23_18.mp3",
+   "Ephesians 4:31-32": "BSB/Verses/Ephesians_4_31-32.mp3",
+   "Ephesians 5:33": "BSB/Verses/Ephesians_5_33.mp3",
+   "Ephesians 3:20-21": "BSB/Verses/Ephesians_3_20-21.mp3",
+   "Proverbs 22:1": "BSB/Verses/Proverbs_22_1.mp3",
+   "Ephesians 5:18": "BSB/Verses/Ephesians_5_18.mp3",
+   "Ephesians 4:26-27": "BSB/Verses/Ephesians_4_26-27.mp3",
+   "Proverbs 22:29": "BSB/Verses/Proverbs_22_29.mp3",
+   "Proverbs 21:5": "BSB/Verses/Proverbs_21_5.mp3",
+   "Ephesians 1:4-5": "BSB/Verses/Ephesians_1_4-5.mp3",
+   "Proverbs 21:31": "BSB/Verses/Proverbs_21_31.mp3",
+   "Ecclesiastes 9:10": "BSB/Verses/Ecclesiastes_9_10.mp3",
+   "Proverbs 20:1": "BSB/Verses/Proverbs_20_1.mp3",
+   "Proverbs 21:3": "BSB/Verses/Proverbs_21_3.mp3",
+   "Proverbs 20:7": "BSB/Verses/Proverbs_20_7.mp3",
+   "Proverbs 21:1": "BSB/Verses/Proverbs_21_1.mp3",
+   "Ecclesiastes 7:9": "BSB/Verses/Ecclesiastes_7_9.mp3",
+   "Ephesians 1:7": "BSB/Verses/Ephesians_1_7.mp3",
+   "Ecclesiastes 4:9-12": "BSB/Verses/Ecclesiastes_4_9-12.mp3",
+   "Ecclesiastes 3:1-4": "BSB/Verses/Ecclesiastes_3_1-4.mp3",
+   "Ecclesiastes 5:10": "BSB/Verses/Ecclesiastes_5_10.mp3",
+   "Ecclesiastes 4:9-10": "BSB/Verses/Ecclesiastes_4_9-10.mp3",
+   "Deuteronomy 33:25": "BSB/Verses/Deuteronomy_33_25.mp3",
+   "Deuteronomy 8:18": "BSB/Verses/Deuteronomy_8_18.mp3",
+   "Daniel 3:17-18": "BSB/Verses/Daniel_3_17-18.mp3",
+   "Daniel 1:17": "BSB/Verses/Daniel_1_17.mp3",
+   "Deuteronomy 31:6": "BSB/Verses/Deuteronomy_31_6.mp3",
+   "Daniel 2:20-21": "BSB/Verses/Daniel_2_20-21.mp3",
+   "Colossians 3:12-14": "BSB/Verses/Colossians_3_12-14.mp3",
+   "Colossians 4:2": "BSB/Verses/Colossians_4_2.mp3",
+   "Colossians 3:21": "BSB/Verses/Colossians_3_21.mp3",
+   "Colossians 3:8": "BSB/Verses/Colossians_3_8.mp3",
+   "Colossians 3:18-19": "BSB/Verses/Colossians_3_18-19.mp3",
+   "Colossians 3:17": "BSB/Verses/Colossians_3_17.mp3",
+   "Colossians 3:15": "BSB/Verses/Colossians_3_15.mp3",
+   "Amos 5:24": "BSB/Verses/Amos_5_24.mp3",
+   "Acts 4:12": "BSB/Verses/Acts_4_12.mp3",
+   "3 John 1:2": "BSB/Verses/3_John_1_2.mp3",
+   "3 John 1:4": "BSB/Verses/3_John_1_4.mp3",
+   "2 Timothy 4:7": "BSB/Verses/2_Timothy_4_7.mp3",
+   "2 Timothy 2:22": "BSB/Verses/2_Timothy_2_22.mp3",
+   "2 Timothy 2:3-4": "BSB/Verses/2_Timothy_2_3-4.mp3",
+   "2 Timothy 1:9": "BSB/Verses/2_Timothy_1_9.mp3",
+   "2 Timothy 2:15": "BSB/Verses/2_Timothy_2_15.mp3",
+   "2 Timothy 1:7": "BSB/Verses/2_Timothy_1_7.mp3",
+   "2 Corinthians 4:16-18": "BSB/Verses/2_Corinthians_4_16-18.mp3",
+   "2 Thessalonians 3:16": "BSB/Verses/2_Thessalonians_3_16.mp3",
+   "2 Timothy 1:5": "BSB/Verses/2_Timothy_1_5.mp3",
+   "2 Corinthians 9:8": "BSB/Verses/2_Corinthians_9_8.mp3",
+   "2 Corinthians 5:21": "BSB/Verses/2_Corinthians_5_21.mp3",
+   "2 Corinthians 4:8-9": "BSB/Verses/2_Corinthians_4_8-9.mp3",
+   "2 Chronicles 7:14": "BSB/Verses/2_Chronicles_7_14.mp3",
+   "2 Corinthians 13:14": "BSB/Verses/2_Corinthians_13_14.mp3",
+   "2 Chronicles 15:7": "BSB/Verses/2_Chronicles_15_7.mp3",
+   "1 Timothy 6:6-8": "BSB/Verses/1_Timothy_6_6-8.mp3",
+   "1 Thessalonians 5:23-24": "BSB/Verses/1_Thessalonians_5_23-24.mp3",
+   "1 Timothy 2:1-2": "BSB/Verses/1_Timothy_2_1-2.mp3",
+   "1 Timothy 4:8": "BSB/Verses/1_Timothy_4_8.mp3",
+   "1 Peter 5:5-6": "BSB/Verses/1_Peter_5_5-6.mp3",
+   "1 Thessalonians 4:13-14": "BSB/Verses/1_Thessalonians_4_13-14.mp3",
+   "1 Peter 5:8-9": "BSB/Verses/1_Peter_5_8-9.mp3",
+   "1 Thessalonians 5:11": "BSB/Verses/1_Thessalonians_5_11.mp3",
+   "1 Peter 5:10": "BSB/Verses/1_Peter_5_10.mp3",
+   "1 Peter 3:7": "BSB/Verses/1_Peter_3_7.mp3",
+   "1 Peter 4:8-9": "BSB/Verses/1_Peter_4_8-9.mp3",
+   "1 John 5:11-13": "BSB/Verses/1_John_5_11-13.mp3",
+   "1 Peter 2:9": "BSB/Verses/1_Peter_2_9.mp3",
+   "1 Peter 1:3": "BSB/Verses/1_Peter_1_3.mp3",
+   "1 John 5:14-15": "BSB/Verses/1_John_5_14-15.mp3",
+   "1 John 4:7-8": "BSB/Verses/1_John_4_7-8.mp3",
+   "1 Corinthians 9:24-25": "BSB/Verses/1_Corinthians_9_24-25.mp3",
+   "1 Corinthians 6:19-20": "BSB/Verses/1_Corinthians_6_19-20.mp3",
+   "1 John 4:4": "BSB/Verses/1_John_4_4.mp3",
+   "1 Corinthians 15:55-57": "BSB/Verses/1_Corinthians_15_55-57.mp3",
+   "1 Corinthians 15:58": "BSB/Verses/1_Corinthians_15_58.mp3",
+   "1 Corinthians 16:13": "BSB/Verses/1_Corinthians_16_13.mp3",
+   "Romans 8:38-39": "BSB/Verses/Romans_8_38-39.mp3",
+   "1 Corinthians 10:31": "BSB/Verses/1_Corinthians_10_31.mp3",
+   "Romans 5:3-5": "BSB/Verses/Romans_5_3-5.mp3",
+   "Romans 8:28": "BSB/Verses/Romans_8_28.mp3",
+   "Romans 8:1": "BSB/Verses/Romans_8_1.mp3",
+   "Romans 6:23": "BSB/Verses/Romans_6_23.mp3",
+   "Romans 5:8": "BSB/Verses/Romans_5_8.mp3",
+   "Romans 10:9-10": "BSB/Verses/Romans_10_9-10.mp3",
+   "Romans 15:13": "BSB/Verses/Romans_15_13.mp3",
+   "Psalms 51:10-12": "BSB/Verses/Psalms_51_10-12.mp3",
+   "Romans 12:2": "BSB/Verses/Romans_12_2.mp3",
+   "Revelation 21:4": "BSB/Verses/Revelation_21_4.mp3",
+   "Psalms 4:8": "BSB/Verses/Psalms_4_8.mp3",
+   "Psalms 46:10": "BSB/Verses/Psalms_46_10.mp3",
+   "Psalms 42:5": "BSB/Verses/Psalms_42_5.mp3",
+   "Psalms 42:11": "BSB/Verses/Psalms_42_11.mp3",
+   "Psalms 34:18": "BSB/Verses/Psalms_34_18.mp3",
+   "Psalms 32:8": "BSB/Verses/Psalms_32_8.mp3",
+   "Psalms 37:5": "BSB/Verses/Psalms_37_5.mp3",
+   "Psalms 30:5": "BSB/Verses/Psalms_30_5.mp3",
+   "Psalms 23:4": "BSB/Verses/Psalms_23_4.mp3",
+   "Psalms 19:14": "BSB/Verses/Psalms_19_14.mp3",
+   "Psalms 16:11": "BSB/Verses/Psalms_16_11.mp3",
+   "Psalms 139:23-24": "BSB/Verses/Psalms_139_23-24.mp3",
+   "Psalms 139:13-14": "BSB/Verses/Psalms_139_13-14.mp3",
+   "Psalms 147:3": "BSB/Verses/Psalms_147_3.mp3",
+   "Psalms 118:24": "BSB/Verses/Psalms_118_24.mp3",
+   "Psalms 119:105": "BSB/Verses/Psalms_119_105.mp3",
+   "Psalms 100:4-5": "BSB/Verses/Psalms_100_4-5.mp3",
+   "Proverbs 4:23": "BSB/Verses/Proverbs_4_23.mp3",
+   "Proverbs 3:5-6": "BSB/Verses/Proverbs_3_5-6.mp3",
+   "Psalms 103:12": "BSB/Verses/Psalms_103_12.mp3",
+   "Philippians 4:8": "BSB/Verses/Philippians_4_8.mp3",
+   "Proverbs 16:3": "BSB/Verses/Proverbs_16_3.mp3",
+   "Philippians 4:6-7": "BSB/Verses/Philippians_4_6-7.mp3",
+   "Philippians 2:3-4": "BSB/Verses/Philippians_2_3-4.mp3",
+   "Proverbs 15:1": "BSB/Verses/Proverbs_15_1.mp3",
+   "Philippians 4:4": "BSB/Verses/Philippians_4_4.mp3",
+   "Philippians 4:19": "BSB/Verses/Philippians_4_19.mp3",
+   "Philippians 4:13": "BSB/Verses/Philippians_4_13.mp3",
+   "Numbers 6:24-26": "BSB/Verses/Numbers_6_24-26.mp3",
+   "Matthew 6:9-13": "BSB/Verses/Matthew_6_9-13.mp3",
+   "Micah 6:8": "BSB/Verses/Micah_6_8.mp3",
+   "Matthew 7:7-8": "BSB/Verses/Matthew_7_7-8.mp3",
+   "Matthew 7:12": "BSB/Verses/Matthew_7_12.mp3",
+   "Matthew 6:33-34": "BSB/Verses/Matthew_6_33-34.mp3",
+   "Matthew 22:37-39": "BSB/Verses/Matthew_22_37-39.mp3",
+   "Matthew 11:28-30": "BSB/Verses/Matthew_11_28-30.mp3",
+   "Matthew 28:20": "BSB/Verses/Matthew_28_20.mp3",
+   "Matthew 5:4": "BSB/Verses/Matthew_5_4.mp3",
+   "Joshua 1:9": "BSB/Verses/Joshua_1_9.mp3",
+   "Lamentations 3:22-23": "BSB/Verses/Lamentations_3_22-23.mp3",
+   "Mark 10:45": "BSB/Verses/Mark_10_45.mp3",
+   "John 3:16-17": "BSB/Verses/John_3_16-17.mp3",
+   "John 14:1-3": "BSB/Verses/John_14_1-3.mp3",
+   "John 16:33": "BSB/Verses/John_16_33.mp3",
+   "John 8:36": "BSB/Verses/John_8_36.mp3",
+   "John 14:6": "BSB/Verses/John_14_6.mp3",
+   "John 14:27": "BSB/Verses/John_14_27.mp3",
+   "John 13:34-35": "BSB/Verses/John_13_34-35.mp3",
+   "Jeremiah 33:3": "BSB/Verses/Jeremiah_33_3.mp3",
+   "James 4:7-8": "BSB/Verses/James_4_7-8.mp3",
+   "Jeremiah 29:11": "BSB/Verses/Jeremiah_29_11.mp3",
+   "James 1:2-4": "BSB/Verses/James_1_2-4.mp3",
+   "Isaiah 43:1-2": "BSB/Verses/Isaiah_43_1-2.mp3",
+   "James 1:5": "BSB/Verses/James_1_5.mp3",
+   "Isaiah 43:2": "BSB/Verses/Isaiah_43_2.mp3",
+   "James 1:19-20": "BSB/Verses/James_1_19-20.mp3",
+   "Isaiah 41:10": "BSB/Verses/Isaiah_41_10.mp3",
+   "Isaiah 40:31": "BSB/Verses/Isaiah_40_31.mp3",
+   "Isaiah 26:3": "BSB/Verses/Isaiah_26_3.mp3",
+   "Hebrews 13:5": "BSB/Verses/Hebrews_13_5.mp3",
+   "Hebrews 4:16": "BSB/Verses/Hebrews_4_16.mp3",
+   "Galatians 6:9": "BSB/Verses/Galatians_6_9.mp3",
+   "Hebrews 11:1": "BSB/Verses/Hebrews_11_1.mp3",
+   "Galatians 5:22-23": "BSB/Verses/Galatians_5_22-23.mp3",
+   "Ephesians 6:4": "BSB/Verses/Ephesians_6_4.mp3",
+   "Galatians 6:2": "BSB/Verses/Galatians_6_2.mp3",
+   "Ephesians 5:25": "BSB/Verses/Ephesians_5_25.mp3",
+   "Ephesians 2:8-9": "BSB/Verses/Ephesians_2_8-9.mp3",
+   "Ephesians 2:10": "BSB/Verses/Ephesians_2_10.mp3",
+   "Ephesians 4:32": "BSB/Verses/Ephesians_4_32.mp3",
+   "Deuteronomy 6:6-7": "BSB/Verses/Deuteronomy_6_6-7.mp3",
+   "Colossians 3:23-24": "BSB/Verses/Colossians_3_23-24.mp3",
+   "2 Corinthians 12:9-10": "BSB/Verses/2_Corinthians_12_9-10.mp3",
+   "Deuteronomy 31:8": "BSB/Verses/Deuteronomy_31_8.mp3",
+   "2 Corinthians 1:3-4": "BSB/Verses/2_Corinthians_1_3-4.mp3",
+   "2 Corinthians 5:17": "BSB/Verses/2_Corinthians_5_17.mp3",
+   "Colossians 3:13": "BSB/Verses/Colossians_3_13.mp3",
+   "1 Corinthians 13:4-7": "BSB/Verses/1_Corinthians_13_4-7.mp3",
+   "1 Thessalonians 5:16-18": "BSB/Verses/1_Thessalonians_5_16-18.mp3",
+   "1 Peter 5:7": "BSB/Verses/1_Peter_5_7.mp3",
+   "1 Corinthians 10:13": "BSB/Verses/1_Corinthians_10_13.mp3",
+   "1 John 3:1": "BSB/Verses/1_John_3_1.mp3",
+   "Matthew 17:20": "BSB/Verses/Matthew_17_20.mp3",
+   "Mark 11:25": "BSB/Verses/Mark_11_25.mp3",
+   "1 John 1:9": "BSB/Verses/1_John_1_9.mp3",
+   "2 Corinthians 5:7": "BSB/Verses/2_Corinthians_5_7.mp3",
+   "Proverbs 22:6": "BSB/Verses/Proverbs_22_6.mp3",
+   "Psalms 15:1-2": "BSB/Verses/Psalms_15_1-2.mp3",
+   "Psalms 23:1-4": "BSB/Verses/Psalms_23_1-4.mp3",
+   "Psalms 24:1": "BSB/Verses/Psalms_24_1.mp3",
+   "Psalms 27:1": "BSB/Verses/Psalms_27_1.mp3",
+   "Psalms 32:1-2": "BSB/Verses/Psalms_32_1-2.mp3",
+   "Psalms 37:1-2": "BSB/Verses/Psalms_37_1-2.mp3",
+   "Psalms 40:1-3": "BSB/Verses/Psalms_40_1-3.mp3",
+   "Psalms 41:1-3": "BSB/Verses/Psalms_41_1-3.mp3",
+   "Psalms 46:1-2": "BSB/Verses/Psalms_46_1-2.mp3",
+   "Psalms 62:1-2": "BSB/Verses/Psalms_62_1-2.mp3",
+   "Psalms 92:1-2": "BSB/Verses/Psalms_92_1-2.mp3",
+   "Psalms 103:1-2": "BSB/Verses/Psalms_103_1-2.mp3",
+   "Psalms 116:15": "BSB/Verses/Psalms_116_15.mp3",
+   "Psalms 121:1-2": "BSB/Verses/Psalms_121_1-2.mp3",
+   "Psalms 127:1": "BSB/Verses/Psalms_127_1.mp3",
+   "Psalms 144:1": "BSB/Verses/Psalms_144_1.mp3",
+   "1 Thessalonians 5:17": "BSB/Verses/1_Thessalonians_5_17.mp3",
+   "Psalms 57:1": "BSB/Verses/Psalms_57_1.mp3",
+   "Psalms 34:1": "BSB/Verses/Psalms_34_1.mp3"
+  }
+ },
+ "KJV": {
+  "Psalms": {
+   "1": [
+    "KJV/Psalms/Psalm_001.mp3"
+   ],
+   "2": [
+    "KJV/Psalms/Psalm_002.mp3"
+   ],
+   "3": [
+    "KJV/Psalms/Psalm_003_part1.mp3",
+    "KJV/Psalms/Psalm_003_part2.mp3"
+   ],
+   "4": [
+    "KJV/Psalms/Psalm_004_part1.mp3",
+    "KJV/Psalms/Psalm_004_part2.mp3"
+   ],
+   "5": [
+    "KJV/Psalms/Psalm_005_part1.mp3",
+    "KJV/Psalms/Psalm_005_part2.mp3",
+    "KJV/Psalms/Psalm_005_part3.mp3"
+   ],
+   "6": [
+    "KJV/Psalms/Psalm_006.mp3"
+   ],
+   "7": [
+    "KJV/Psalms/Psalm_007.mp3"
+   ],
+   "8": [
+    "KJV/Psalms/Psalm_008.mp3"
+   ],
+   "9": [
+    "KJV/Psalms/Psalm_009_part1.mp3",
+    "KJV/Psalms/Psalm_009_part2.mp3"
+   ],
+   "10": [
+    "KJV/Psalms/Psalm_010_part1.mp3",
+    "KJV/Psalms/Psalm_010_part2.mp3"
+   ],
+   "11": [
+    "KJV/Psalms/Psalm_011.mp3"
+   ],
+   "12": [
+    "KJV/Psalms/Psalm_012.mp3"
+   ],
+   "13": [
+    "KJV/Psalms/Psalm_013.mp3"
+   ],
+   "14": [
+    "KJV/Psalms/Psalm_014.mp3"
+   ],
+   "15": [
+    "KJV/Psalms/Psalm_015.mp3"
+   ],
+   "16": [
+    "KJV/Psalms/Psalm_016_part1.mp3",
+    "KJV/Psalms/Psalm_016_part2.mp3"
+   ],
+   "17": [
+    "KJV/Psalms/Psalm_017.mp3"
+   ],
+   "18": [
+    "KJV/Psalms/Psalm_018_part1.mp3",
+    "KJV/Psalms/Psalm_018_part2.mp3"
+   ],
+   "19": [
+    "KJV/Psalms/Psalm_019.mp3"
+   ],
+   "20": [
+    "KJV/Psalms/Psalm_020_part1.mp3",
+    "KJV/Psalms/Psalm_020_part2.mp3"
+   ],
+   "21": [
+    "KJV/Psalms/Psalm_021.mp3"
+   ],
+   "22": [
+    "KJV/Psalms/Psalm_022.mp3"
+   ],
+   "23": [
+    "KJV/Psalms/Psalm_023.mp3"
+   ],
+   "24": [
+    "KJV/Psalms/Psalm_024.mp3"
+   ],
+   "25": [
+    "KJV/Psalms/Psalm_025_part1.mp3",
+    "KJV/Psalms/Psalm_025_part2.mp3",
+    "KJV/Psalms/Psalm_025_part3.mp3"
+   ],
+   "26": [
+    "KJV/Psalms/Psalm_026.mp3"
+   ],
+   "27": [
+    "KJV/Psalms/Psalm_027_part1.mp3",
+    "KJV/Psalms/Psalm_027_part2.mp3"
+   ],
+   "28": [
+    "KJV/Psalms/Psalm_028.mp3"
+   ],
+   "29": [
+    "KJV/Psalms/Psalm_029.mp3"
+   ],
+   "30": [
+    "KJV/Psalms/Psalm_030_part1.mp3",
+    "KJV/Psalms/Psalm_030_part2.mp3"
+   ],
+   "31": [
+    "KJV/Psalms/Psalm_031_part1.mp3",
+    "KJV/Psalms/Psalm_031_part2.mp3"
+   ],
+   "32": [
+    "KJV/Psalms/Psalm_032_part1.mp3",
+    "KJV/Psalms/Psalm_032_part2.mp3"
+   ],
+   "33": [
+    "KJV/Psalms/Psalm_033_part1.mp3",
+    "KJV/Psalms/Psalm_033_part2.mp3",
+    "KJV/Psalms/Psalm_033_part3.mp3"
+   ],
+   "34": [
+    "KJV/Psalms/Psalm_034_part1.mp3",
+    "KJV/Psalms/Psalm_034_part2.mp3",
+    "KJV/Psalms/Psalm_034_part3.mp3",
+    "KJV/Psalms/Psalm_034_part4.mp3",
+    "KJV/Psalms/Psalm_034_part5.mp3",
+    "KJV/Psalms/Psalm_034_part6.mp3"
+   ],
+   "35": [
+    "KJV/Psalms/Psalm_035.mp3"
+   ],
+   "36": [
+    "KJV/Psalms/Psalm_036.mp3"
+   ],
+   "37": [
+    "KJV/Psalms/Psalm_037_part1.mp3",
+    "KJV/Psalms/Psalm_037_part2.mp3",
+    "KJV/Psalms/Psalm_037_part3.mp3",
+    "KJV/Psalms/Psalm_037_part4.mp3",
+    "KJV/Psalms/Psalm_037_part5.mp3",
+    "KJV/Psalms/Psalm_037_part6.mp3",
+    "KJV/Psalms/Psalm_037_part7.mp3",
+    "KJV/Psalms/Psalm_037_part8.mp3"
+   ],
+   "38": [
+    "KJV/Psalms/Psalm_038.mp3"
+   ],
+   "39": [
+    "KJV/Psalms/Psalm_039.mp3"
+   ],
+   "40": [
+    "KJV/Psalms/Psalm_040_part1.mp3",
+    "KJV/Psalms/Psalm_040_part2.mp3"
+   ],
+   "41": [
+    "KJV/Psalms/Psalm_041.mp3"
+   ],
+   "42": [
+    "KJV/Psalms/Psalm_042.mp3"
+   ],
+   "43": [
+    "KJV/Psalms/Psalm_043.mp3"
+   ],
+   "44": [
+    "KJV/Psalms/Psalm_044.mp3"
+   ],
+   "45": [
+    "KJV/Psalms/Psalm_045.mp3"
+   ],
+   "46": [
+    "KJV/Psalms/Psalm_046.mp3"
+   ],
+   "47": [
+    "KJV/Psalms/Psalm_047.mp3"
+   ],
+   "48": [
+    "KJV/Psalms/Psalm_048.mp3"
+   ],
+   "49": [
+    "KJV/Psalms/Psalm_049.mp3"
+   ],
+   "50": [
+    "KJV/Psalms/Psalm_050.mp3"
+   ],
+   "51": [
+    "KJV/Psalms/Psalm_051.mp3"
+   ],
+   "52": [
+    "KJV/Psalms/Psalm_052.mp3"
+   ],
+   "53": [
+    "KJV/Psalms/Psalm_053.mp3"
+   ],
+   "54": [
+    "KJV/Psalms/Psalm_054.mp3"
+   ],
+   "55": [
+    "KJV/Psalms/Psalm_055_part1.mp3",
+    "KJV/Psalms/Psalm_055_part2.mp3"
+   ],
+   "56": [
+    "KJV/Psalms/Psalm_056_part1.mp3",
+    "KJV/Psalms/Psalm_056_part2.mp3"
+   ],
+   "57": [
+    "KJV/Psalms/Psalm_057.mp3"
+   ],
+   "58": [
+    "KJV/Psalms/Psalm_058.mp3"
+   ],
+   "59": [
+    "KJV/Psalms/Psalm_059.mp3"
+   ],
+   "60": [
+    "KJV/Psalms/Psalm_060.mp3"
+   ],
+   "61": [
+    "KJV/Psalms/Psalm_061_part1.mp3",
+    "KJV/Psalms/Psalm_061_part2.mp3"
+   ],
+   "62": [
+    "KJV/Psalms/Psalm_062_part1.mp3",
+    "KJV/Psalms/Psalm_062_part2.mp3",
+    "KJV/Psalms/Psalm_062_part3.mp3"
+   ],
+   "63": [
+    "KJV/Psalms/Psalm_063.mp3"
+   ],
+   "64": [
+    "KJV/Psalms/Psalm_064.mp3"
+   ],
+   "65": [
+    "KJV/Psalms/Psalm_065.mp3"
+   ],
+   "66": [
+    "KJV/Psalms/Psalm_066_part1.mp3",
+    "KJV/Psalms/Psalm_066_part2.mp3"
+   ],
+   "67": [
+    "KJV/Psalms/Psalm_067.mp3"
+   ],
+   "68": [
+    "KJV/Psalms/Psalm_068.mp3"
+   ],
+   "69": [
+    "KJV/Psalms/Psalm_069.mp3"
+   ],
+   "70": [
+    "KJV/Psalms/Psalm_070.mp3"
+   ],
+   "71": [
+    "KJV/Psalms/Psalm_071_part1.mp3",
+    "KJV/Psalms/Psalm_071_part2.mp3",
+    "KJV/Psalms/Psalm_071_part3.mp3",
+    "KJV/Psalms/Psalm_071_part4.mp3"
+   ],
+   "72": [
+    "KJV/Psalms/Psalm_072.mp3"
+   ],
+   "73": [
+    "KJV/Psalms/Psalm_073_part1.mp3",
+    "KJV/Psalms/Psalm_073_part2.mp3"
+   ],
+   "74": [
+    "KJV/Psalms/Psalm_074.mp3"
+   ],
+   "75": [
+    "KJV/Psalms/Psalm_075.mp3"
+   ],
+   "76": [
+    "KJV/Psalms/Psalm_076.mp3"
+   ],
+   "77": [
+    "KJV/Psalms/Psalm_077.mp3"
+   ],
+   "78": [
+    "KJV/Psalms/Psalm_078_part1.mp3",
+    "KJV/Psalms/Psalm_078_part2.mp3"
+   ],
+   "79": [
+    "KJV/Psalms/Psalm_079.mp3"
+   ],
+   "80": [
+    "KJV/Psalms/Psalm_080.mp3"
+   ],
+   "81": [
+    "KJV/Psalms/Psalm_081.mp3"
+   ],
+   "82": [
+    "KJV/Psalms/Psalm_082_part1.mp3",
+    "KJV/Psalms/Psalm_082_part2.mp3"
+   ],
+   "83": [
+    "KJV/Psalms/Psalm_083.mp3"
+   ],
+   "84": [
+    "KJV/Psalms/Psalm_084.mp3"
+   ],
+   "85": [
+    "KJV/Psalms/Psalm_085.mp3"
+   ],
+   "86": [
+    "KJV/Psalms/Psalm_086_part1.mp3",
+    "KJV/Psalms/Psalm_086_part2.mp3"
+   ],
+   "87": [
+    "KJV/Psalms/Psalm_087.mp3"
+   ],
+   "88": [
+    "KJV/Psalms/Psalm_088.mp3"
+   ],
+   "89": [
+    "KJV/Psalms/Psalm_089.mp3"
+   ],
+   "90": [
+    "KJV/Psalms/Psalm_090_part1.mp3",
+    "KJV/Psalms/Psalm_090_part2.mp3",
+    "KJV/Psalms/Psalm_090_part3.mp3"
+   ],
+   "91": [
+    "KJV/Psalms/Psalm_091_part1.mp3",
+    "KJV/Psalms/Psalm_091_part2.mp3"
+   ],
+   "92": [
+    "KJV/Psalms/Psalm_092_part1.mp3",
+    "KJV/Psalms/Psalm_092_part2.mp3"
+   ],
+   "93": [
+    "KJV/Psalms/Psalm_093.mp3"
+   ],
+   "94": [
+    "KJV/Psalms/Psalm_094_part1.mp3",
+    "KJV/Psalms/Psalm_094_part2.mp3"
+   ],
+   "95": [
+    "KJV/Psalms/Psalm_095.mp3"
+   ],
+   "96": [
+    "KJV/Psalms/Psalm_096.mp3"
+   ],
+   "97": [
+    "KJV/Psalms/Psalm_097.mp3"
+   ],
+   "98": [
+    "KJV/Psalms/Psalm_098.mp3"
+   ],
+   "99": [
+    "KJV/Psalms/Psalm_099.mp3"
+   ],
+   "100": [
+    "KJV/Psalms/Psalm_100.mp3"
+   ],
+   "101": [
+    "KJV/Psalms/Psalm_101.mp3"
+   ],
+   "102": [
+    "KJV/Psalms/Psalm_102.mp3"
+   ],
+   "103": [
+    "KJV/Psalms/Psalm_103.mp3"
+   ],
+   "104": [
+    "KJV/Psalms/Psalm_104.mp3"
+   ],
+   "105": [
+    "KJV/Psalms/Psalm_105.mp3"
+   ],
+   "106": [
+    "KJV/Psalms/Psalm_106.mp3"
+   ],
+   "107": [
+    "KJV/Psalms/Psalm_107.mp3"
+   ],
+   "108": [
+    "KJV/Psalms/Psalm_108.mp3"
+   ],
+   "109": [
+    "KJV/Psalms/Psalm_109.mp3"
+   ],
+   "110": [
+    "KJV/Psalms/Psalm_110.mp3"
+   ],
+   "111": [
+    "KJV/Psalms/Psalm_111.mp3"
+   ],
+   "112": [
+    "KJV/Psalms/Psalm_112.mp3"
+   ],
+   "113": [
+    "KJV/Psalms/Psalm_113.mp3"
+   ],
+   "114": [
+    "KJV/Psalms/Psalm_114.mp3"
+   ],
+   "115": [
+    "KJV/Psalms/Psalm_115.mp3"
+   ],
+   "116": [
+    "KJV/Psalms/Psalm_116.mp3"
+   ],
+   "117": [
+    "KJV/Psalms/Psalm_117.mp3"
+   ],
+   "118": [
+    "KJV/Psalms/Psalm_118.mp3"
+   ],
+   "119": [
+    "KJV/Psalms/Psalm_119_part1.mp3",
+    "KJV/Psalms/Psalm_119_part2.mp3",
+    "KJV/Psalms/Psalm_119_part3.mp3"
+   ],
+   "120": [
+    "KJV/Psalms/Psalm_120.mp3"
+   ],
+   "121": [
+    "KJV/Psalms/Psalm_121.mp3"
+   ],
+   "122": [
+    "KJV/Psalms/Psalm_122.mp3"
+   ],
+   "123": [
+    "KJV/Psalms/Psalm_123.mp3"
+   ],
+   "124": [
+    "KJV/Psalms/Psalm_124.mp3"
+   ],
+   "125": [
+    "KJV/Psalms/Psalm_125.mp3"
+   ],
+   "126": [
+    "KJV/Psalms/Psalm_126.mp3"
+   ],
+   "127": [
+    "KJV/Psalms/Psalm_127.mp3"
+   ],
+   "128": [
+    "KJV/Psalms/Psalm_128.mp3"
+   ],
+   "129": [
+    "KJV/Psalms/Psalm_129.mp3"
+   ],
+   "130": [
+    "KJV/Psalms/Psalm_130.mp3"
+   ],
+   "131": [
+    "KJV/Psalms/Psalm_131.mp3"
+   ],
+   "132": [
+    "KJV/Psalms/Psalm_132.mp3"
+   ],
+   "133": [
+    "KJV/Psalms/Psalm_133.mp3"
+   ],
+   "134": [
+    "KJV/Psalms/Psalm_134.mp3"
+   ],
+   "135": [
+    "KJV/Psalms/Psalm_135.mp3"
+   ],
+   "136": [
+    "KJV/Psalms/Psalm_136.mp3"
+   ],
+   "137": [
+    "KJV/Psalms/Psalm_137.mp3"
+   ],
+   "138": [
+    "KJV/Psalms/Psalm_138.mp3"
+   ],
+   "139": [
+    "KJV/Psalms/Psalm_139.mp3"
+   ],
+   "140": [
+    "KJV/Psalms/Psalm_140.mp3"
+   ],
+   "141": [
+    "KJV/Psalms/Psalm_141.mp3"
+   ],
+   "142": [
+    "KJV/Psalms/Psalm_142.mp3"
+   ],
+   "143": [
+    "KJV/Psalms/Psalm_143.mp3"
+   ],
+   "144": [
+    "KJV/Psalms/Psalm_144.mp3"
+   ],
+   "145": [
+    "KJV/Psalms/Psalm_145.mp3"
+   ],
+   "146": [
+    "KJV/Psalms/Psalm_146.mp3"
+   ],
+   "147": [
+    "KJV/Psalms/Psalm_147.mp3"
+   ],
+   "148": [
+    "KJV/Psalms/Psalm_148.mp3"
+   ],
+   "149": [
+    "KJV/Psalms/Psalm_149.mp3"
+   ],
+   "150": [
+    "KJV/Psalms/Psalm_150.mp3"
+   ]
+  },
+  "Proverbs": {
+   "1": [
+    "KJV/Proverbs/Proverbs_01.mp3"
+   ],
+   "2": [
+    "KJV/Proverbs/Proverbs_02.mp3"
+   ],
+   "3": [
+    "KJV/Proverbs/Proverbs_03.mp3"
+   ],
+   "4": [
+    "KJV/Proverbs/Proverbs_04.mp3"
+   ],
+   "5": [
+    "KJV/Proverbs/Proverbs_05.mp3"
+   ],
+   "6": [
+    "KJV/Proverbs/Proverbs_06.mp3"
+   ],
+   "7": [
+    "KJV/Proverbs/Proverbs_07.mp3"
+   ],
+   "8": [
+    "KJV/Proverbs/Proverbs_08.mp3"
+   ],
+   "9": [
+    "KJV/Proverbs/Proverbs_09.mp3"
+   ],
+   "10": [
+    "KJV/Proverbs/Proverbs_10.mp3"
+   ],
+   "11": [
+    "KJV/Proverbs/Proverbs_11.mp3"
+   ],
+   "12": [
+    "KJV/Proverbs/Proverbs_12.mp3"
+   ],
+   "13": [
+    "KJV/Proverbs/Proverbs_13.mp3"
+   ],
+   "14": [
+    "KJV/Proverbs/Proverbs_14.mp3"
+   ],
+   "15": [
+    "KJV/Proverbs/Proverbs_15.mp3"
+   ],
+   "16": [
+    "KJV/Proverbs/Proverbs_16.mp3"
+   ],
+   "17": [
+    "KJV/Proverbs/Proverbs_17.mp3"
+   ],
+   "18": [
+    "KJV/Proverbs/Proverbs_18.mp3"
+   ],
+   "19": [
+    "KJV/Proverbs/Proverbs_19.mp3"
+   ],
+   "20": [
+    "KJV/Proverbs/Proverbs_20.mp3"
+   ],
+   "21": [
+    "KJV/Proverbs/Proverbs_21.mp3"
+   ],
+   "22": [
+    "KJV/Proverbs/Proverbs_22.mp3"
+   ],
+   "23": [
+    "KJV/Proverbs/Proverbs_23.mp3"
+   ],
+   "24": [
+    "KJV/Proverbs/Proverbs_24.mp3"
+   ],
+   "25": [
+    "KJV/Proverbs/Proverbs_25.mp3"
+   ],
+   "26": [
+    "KJV/Proverbs/Proverbs_26.mp3"
+   ],
+   "27": [
+    "KJV/Proverbs/Proverbs_27.mp3"
+   ],
+   "28": [
+    "KJV/Proverbs/Proverbs_28.mp3"
+   ],
+   "29": [
+    "KJV/Proverbs/Proverbs_29.mp3"
+   ],
+   "30": [
+    "KJV/Proverbs/Proverbs_30.mp3"
+   ],
+   "31": [
+    "KJV/Proverbs/Proverbs_31.mp3"
+   ]
+  },
+  "verses": {
+   "Psalms 78:52-72": "KJV/Verses/Psalms_78_52-72.mp3",
+   "Zephaniah 3:17": "KJV/Verses/Zephaniah_3_17.mp3",
+   "Zechariah 7:9-10": "KJV/Verses/Zechariah_7_9-10.mp3",
+   "Zechariah 4:6": "KJV/Verses/Zechariah_4_6.mp3",
+   "Song of Solomon 8:7": "KJV/Verses/Song_of_Solomon_8_7.mp3",
+   "Romans 8:37": "KJV/Verses/Romans_8_37.mp3",
+   "Romans 8:31": "KJV/Verses/Romans_8_31.mp3",
+   "Romans 8:26": "KJV/Verses/Romans_8_26.mp3",
+   "Romans 8:18": "KJV/Verses/Romans_8_18.mp3",
+   "Romans 8:15-16": "KJV/Verses/Romans_8_15-16.mp3",
+   "Romans 5:5": "KJV/Verses/Romans_5_5.mp3",
+   "Romans 3:23-24": "KJV/Verses/Romans_3_23-24.mp3",
+   "Romans 15:7": "KJV/Verses/Romans_15_7.mp3",
+   "Romans 12:3": "KJV/Verses/Romans_12_3.mp3",
+   "Romans 12:19-21": "KJV/Verses/Romans_12_19-21.mp3",
+   "Romans 12:18": "KJV/Verses/Romans_12_18.mp3",
+   "Romans 12:15-16": "KJV/Verses/Romans_12_15-16.mp3",
+   "Romans 12:10": "KJV/Verses/Romans_12_10.mp3",
+   "Romans 12:1": "KJV/Verses/Romans_12_1.mp3",
+   "Romans 10:17": "KJV/Verses/Romans_10_17.mp3",
+   "Romans 10:13": "KJV/Verses/Romans_10_13.mp3",
+   "Revelation 3:20": "KJV/Verses/Revelation_3_20.mp3",
+   "Psalms 9:10": "KJV/Verses/Psalms_9_10.mp3",
+   "Psalms 94:19": "KJV/Verses/Psalms_94_19.mp3",
+   "Psalms 92:14": "KJV/Verses/Psalms_92_14.mp3",
+   "Psalms 92:1-2": "KJV/Verses/Psalms_92_1-2.mp3",
+   "Psalms 91:11": "KJV/Verses/Psalms_91_11.mp3",
+   "Psalms 91:1-2": "KJV/Verses/Psalms_91_1-2.mp3",
+   "Psalms 90:17": "KJV/Verses/Psalms_90_17.mp3",
+   "Psalms 90:14": "KJV/Verses/Psalms_90_14.mp3",
+   "Psalms 90:12": "KJV/Verses/Psalms_90_12.mp3",
+   "Psalms 86:5": "KJV/Verses/Psalms_86_5.mp3",
+   "Psalms 82:3-4": "KJV/Verses/Psalms_82_3-4.mp3",
+   "Psalms 78:4-7": "KJV/Verses/Psalms_78_4-7.mp3",
+   "Psalms 73:26": "KJV/Verses/Psalms_73_26.mp3",
+   "Psalms 71:9": "KJV/Verses/Psalms_71_9.mp3",
+   "Psalms 71:18": "KJV/Verses/Psalms_71_18.mp3",
+   "Psalms 71:14": "KJV/Verses/Psalms_71_14.mp3",
+   "Psalms 68:5-6": "KJV/Verses/Psalms_68_5-6.mp3",
+   "Psalms 66:12": "KJV/Verses/Psalms_66_12.mp3",
+   "Psalms 62:8": "KJV/Verses/Psalms_62_8.mp3",
+   "Psalms 62:7": "KJV/Verses/Psalms_62_7.mp3",
+   "Psalms 62:1-2": "KJV/Verses/Psalms_62_1-2.mp3",
+   "Psalms 61:3": "KJV/Verses/Psalms_61_3.mp3",
+   "Psalms 5:3": "KJV/Verses/Psalms_5_3.mp3",
+   "Psalms 5:11-12": "KJV/Verses/Psalms_5_11-12.mp3",
+   "Psalms 57:1": "KJV/Verses/Psalms_57_1.mp3",
+   "Psalms 56:3-4": "KJV/Verses/Psalms_56_3-4.mp3",
+   "Psalms 56:3": "KJV/Verses/Psalms_56_3.mp3",
+   "Psalms 55:22": "KJV/Verses/Psalms_55_22.mp3",
+   "Psalms 48:14": "KJV/Verses/Psalms_48_14.mp3",
+   "Psalms 41:1-3": "KJV/Verses/Psalms_41_1-3.mp3",
+   "Psalms 40:3": "KJV/Verses/Psalms_40_3.mp3",
+   "Psalms 40:1-3": "KJV/Verses/Psalms_40_1-3.mp3",
+   "Psalms 3:3": "KJV/Verses/Psalms_3_3.mp3",
+   "Psalms 37:7-8": "KJV/Verses/Psalms_37_7-8.mp3",
+   "Psalms 37:4-5": "KJV/Verses/Psalms_37_4-5.mp3",
+   "Psalms 37:39-40": "KJV/Verses/Psalms_37_39-40.mp3",
+   "Psalms 37:3": "KJV/Verses/Psalms_37_3.mp3",
+   "Psalms 37:25": "KJV/Verses/Psalms_37_25.mp3",
+   "Psalms 37:23-24": "KJV/Verses/Psalms_37_23-24.mp3",
+   "Psalms 37:19": "KJV/Verses/Psalms_37_19.mp3",
+   "Psalms 37:1-2": "KJV/Verses/Psalms_37_1-2.mp3",
+   "Psalms 34:7": "KJV/Verses/Psalms_34_7.mp3",
+   "Psalms 34:4": "KJV/Verses/Psalms_34_4.mp3",
+   "Psalms 34:19": "KJV/Verses/Psalms_34_19.mp3",
+   "Psalms 34:17-18": "KJV/Verses/Psalms_34_17-18.mp3",
+   "Psalms 34:15": "KJV/Verses/Psalms_34_15.mp3",
+   "Psalms 34:10": "KJV/Verses/Psalms_34_10.mp3",
+   "Psalms 34:1": "KJV/Verses/Psalms_34_1.mp3",
+   "Psalms 33:3": "KJV/Verses/Psalms_33_3.mp3",
+   "Psalms 33:10-11": "KJV/Verses/Psalms_33_10-11.mp3",
+   "Psalms 32:7": "KJV/Verses/Psalms_32_7.mp3",
+   "Psalms 32:1-2": "KJV/Verses/Psalms_32_1-2.mp3",
+   "Psalms 31:24": "KJV/Verses/Psalms_31_24.mp3",
+   "Psalms 30:11": "KJV/Verses/Psalms_30_11.mp3",
+   "Psalms 28:7": "KJV/Verses/Psalms_28_7.mp3",
+   "Psalms 27:10": "KJV/Verses/Psalms_27_10.mp3",
+   "Psalms 25:4-5": "KJV/Verses/Psalms_25_4-5.mp3",
+   "Psalms 25:16-18": "KJV/Verses/Psalms_25_16-18.mp3",
+   "Psalms 24:1": "KJV/Verses/Psalms_24_1.mp3",
+   "Psalms 20:7": "KJV/Verses/Psalms_20_7.mp3",
+   "Psalms 18:2": "KJV/Verses/Psalms_18_2.mp3",
+   "Psalms 16:8": "KJV/Verses/Psalms_16_8.mp3",
+   "Psalms 15:1-2": "KJV/Verses/Psalms_15_1-2.mp3",
+   "Psalms 150:6": "KJV/Verses/Psalms_150_6.mp3",
+   "Psalms 145:18": "KJV/Verses/Psalms_145_18.mp3",
+   "Psalms 145:14": "KJV/Verses/Psalms_145_14.mp3",
+   "Psalms 144:1": "KJV/Verses/Psalms_144_1.mp3",
+   "Psalms 143:8": "KJV/Verses/Psalms_143_8.mp3",
+   "Psalms 143:7-8": "KJV/Verses/Psalms_143_7-8.mp3",
+   "Psalms 141:2": "KJV/Verses/Psalms_141_2.mp3",
+   "Psalms 139:7-10": "KJV/Verses/Psalms_139_7-10.mp3",
+   "Psalms 138:8": "KJV/Verses/Psalms_138_8.mp3",
+   "Psalms 138:7-8": "KJV/Verses/Psalms_138_7-8.mp3",
+   "Psalms 138:3": "KJV/Verses/Psalms_138_3.mp3",
+   "1 Chronicles 16:34": "KJV/Verses/1_Chronicles_16_34.mp3",
+   "Psalms 130:5": "KJV/Verses/Psalms_130_5.mp3",
+   "Psalms 130:3-4": "KJV/Verses/Psalms_130_3-4.mp3",
+   "Psalms 127:3-5": "KJV/Verses/Psalms_127_3-5.mp3",
+   "Psalms 127:2": "KJV/Verses/Psalms_127_2.mp3",
+   "Psalms 127:1": "KJV/Verses/Psalms_127_1.mp3",
+   "Psalms 126:5-6": "KJV/Verses/Psalms_126_5-6.mp3",
+   "Psalms 126:3": "KJV/Verses/Psalms_126_3.mp3",
+   "Psalms 125:2": "KJV/Verses/Psalms_125_2.mp3",
+   "Psalms 121:7-8": "KJV/Verses/Psalms_121_7-8.mp3",
+   "Psalms 121:3-4": "KJV/Verses/Psalms_121_3-4.mp3",
+   "Psalms 119:9-11": "KJV/Verses/Psalms_119_9-11.mp3",
+   "Psalms 119:71": "KJV/Verses/Psalms_119_71.mp3",
+   "Psalms 119:50": "KJV/Verses/Psalms_119_50.mp3",
+   "Psalms 118:8-9": "KJV/Verses/Psalms_118_8-9.mp3",
+   "Psalms 118:6": "KJV/Verses/Psalms_118_6.mp3",
+   "Psalms 116:7": "KJV/Verses/Psalms_116_7.mp3",
+   "Psalms 116:15": "KJV/Verses/Psalms_116_15.mp3",
+   "Psalms 112:7": "KJV/Verses/Psalms_112_7.mp3",
+   "Psalms 112:1-2": "KJV/Verses/Psalms_112_1-2.mp3",
+   "Psalms 10:17": "KJV/Verses/Psalms_10_17.mp3",
+   "Psalms 103:2-3": "KJV/Verses/Psalms_103_2-3.mp3",
+   "Psalms 103:19": "KJV/Verses/Psalms_103_19.mp3",
+   "Psalms 103:13": "KJV/Verses/Psalms_103_13.mp3",
+   "Psalms 103:1-2": "KJV/Verses/Psalms_103_1-2.mp3",
+   "Proverbs 9:9": "KJV/Verses/Proverbs_9_9.mp3",
+   "Proverbs 6:6-8": "KJV/Verses/Proverbs_6_6-8.mp3",
+   "Proverbs 5:18-19": "KJV/Verses/Proverbs_5_18-19.mp3",
+   "Proverbs 4:7": "KJV/Verses/Proverbs_4_7.mp3",
+   "Proverbs 4:20-22": "KJV/Verses/Proverbs_4_20-22.mp3",
+   "Proverbs 3:9-10": "KJV/Verses/Proverbs_3_9-10.mp3",
+   "Proverbs 3:27": "KJV/Verses/Proverbs_3_27.mp3",
+   "Proverbs 3:25-26": "KJV/Verses/Proverbs_3_25-26.mp3",
+   "Proverbs 3:24": "KJV/Verses/Proverbs_3_24.mp3",
+   "Proverbs 3:13": "KJV/Verses/Proverbs_3_13.mp3",
+   "Proverbs 31:8-9": "KJV/Verses/Proverbs_31_8-9.mp3",
+   "Proverbs 31:10-12": "KJV/Verses/Proverbs_31_10-12.mp3",
+   "Proverbs 2:6": "KJV/Verses/Proverbs_2_6.mp3",
+   "Proverbs 29:7": "KJV/Verses/Proverbs_29_7.mp3",
+   "Proverbs 29:2": "KJV/Verses/Proverbs_29_2.mp3",
+   "Proverbs 29:17": "KJV/Verses/Proverbs_29_17.mp3",
+   "Proverbs 29:11": "KJV/Verses/Proverbs_29_11.mp3",
+   "Proverbs 28:6": "KJV/Verses/Proverbs_28_6.mp3",
+   "Proverbs 28:13": "KJV/Verses/Proverbs_28_13.mp3",
+   "Proverbs 27:17": "KJV/Verses/Proverbs_27_17.mp3",
+   "Proverbs 24:16": "KJV/Verses/Proverbs_24_16.mp3",
+   "Proverbs 23:24-25": "KJV/Verses/Proverbs_23_24-25.mp3",
+   "Proverbs 23:18": "KJV/Verses/Proverbs_23_18.mp3",
+   "Proverbs 22:7": "KJV/Verses/Proverbs_22_7.mp3",
+   "Proverbs 22:4": "KJV/Verses/Proverbs_22_4.mp3",
+   "Proverbs 22:29": "KJV/Verses/Proverbs_22_29.mp3",
+   "Proverbs 22:1": "KJV/Verses/Proverbs_22_1.mp3",
+   "Proverbs 21:5": "KJV/Verses/Proverbs_21_5.mp3",
+   "Proverbs 21:31": "KJV/Verses/Proverbs_21_31.mp3",
+   "Proverbs 21:3": "KJV/Verses/Proverbs_21_3.mp3",
+   "Proverbs 21:1": "KJV/Verses/Proverbs_21_1.mp3",
+   "Proverbs 20:7": "KJV/Verses/Proverbs_20_7.mp3",
+   "Proverbs 20:1": "KJV/Verses/Proverbs_20_1.mp3",
+   "Proverbs 1:8-9": "KJV/Verses/Proverbs_1_8-9.mp3",
+   "Proverbs 1:7": "KJV/Verses/Proverbs_1_7.mp3",
+   "Proverbs 19:21": "KJV/Verses/Proverbs_19_21.mp3",
+   "Proverbs 19:11": "KJV/Verses/Proverbs_19_11.mp3",
+   "Proverbs 18:24": "KJV/Verses/Proverbs_18_24.mp3",
+   "Proverbs 18:22": "KJV/Verses/Proverbs_18_22.mp3",
+   "Proverbs 18:15": "KJV/Verses/Proverbs_18_15.mp3",
+   "Proverbs 18:10": "KJV/Verses/Proverbs_18_10.mp3",
+   "Proverbs 17:6": "KJV/Verses/Proverbs_17_6.mp3",
+   "Proverbs 17:27": "KJV/Verses/Proverbs_17_27.mp3",
+   "Proverbs 17:22": "KJV/Verses/Proverbs_17_22.mp3",
+   "Proverbs 17:17": "KJV/Verses/Proverbs_17_17.mp3",
+   "Proverbs 16:9": "KJV/Verses/Proverbs_16_9.mp3",
+   "Proverbs 16:32": "KJV/Verses/Proverbs_16_32.mp3",
+   "Proverbs 16:31": "KJV/Verses/Proverbs_16_31.mp3",
+   "Proverbs 16:18-19": "KJV/Verses/Proverbs_16_18-19.mp3",
+   "Proverbs 16:1-3": "KJV/Verses/Proverbs_16_1-3.mp3",
+   "Proverbs 15:22": "KJV/Verses/Proverbs_15_22.mp3",
+   "Proverbs 14:31": "KJV/Verses/Proverbs_14_31.mp3",
+   "Proverbs 14:30": "KJV/Verses/Proverbs_14_30.mp3",
+   "Proverbs 14:29": "KJV/Verses/Proverbs_14_29.mp3",
+   "Proverbs 14:23": "KJV/Verses/Proverbs_14_23.mp3",
+   "Proverbs 13:24": "KJV/Verses/Proverbs_13_24.mp3",
+   "Proverbs 13:20": "KJV/Verses/Proverbs_13_20.mp3",
+   "Proverbs 13:11": "KJV/Verses/Proverbs_13_11.mp3",
+   "Proverbs 12:25": "KJV/Verses/Proverbs_12_25.mp3",
+   "Proverbs 12:24": "KJV/Verses/Proverbs_12_24.mp3",
+   "Proverbs 12:22": "KJV/Verses/Proverbs_12_22.mp3",
+   "Proverbs 11:3": "KJV/Verses/Proverbs_11_3.mp3",
+   "Proverbs 11:24-25": "KJV/Verses/Proverbs_11_24-25.mp3",
+   "Proverbs 11:2": "KJV/Verses/Proverbs_11_2.mp3",
+   "Proverbs 11:14": "KJV/Verses/Proverbs_11_14.mp3",
+   "Proverbs 10:9": "KJV/Verses/Proverbs_10_9.mp3",
+   "Proverbs 10:4": "KJV/Verses/Proverbs_10_4.mp3",
+   "Proverbs 10:22": "KJV/Verses/Proverbs_10_22.mp3",
+   "Philippians 4:12": "KJV/Verses/Philippians_4_12.mp3",
+   "Philippians 3:13-14": "KJV/Verses/Philippians_3_13-14.mp3",
+   "Philippians 2:13": "KJV/Verses/Philippians_2_13.mp3",
+   "Philippians 1:6": "KJV/Verses/Philippians_1_6.mp3",
+   "Nehemiah 8:10": "KJV/Verses/Nehemiah_8_10.mp3",
+   "Nahum 1:7": "KJV/Verses/Nahum_1_7.mp3",
+   "Micah 7:8": "KJV/Verses/Micah_7_8.mp3",
+   "Micah 7:18-19": "KJV/Verses/Micah_7_18-19.mp3",
+   "Matthew 9:12": "KJV/Verses/Matthew_9_12.mp3",
+   "Matthew 6:31-32": "KJV/Verses/Matthew_6_31-32.mp3",
+   "Matthew 6:25-27": "KJV/Verses/Matthew_6_25-27.mp3",
+   "Matthew 6:24": "KJV/Verses/Matthew_6_24.mp3",
+   "Matthew 6:19-21": "KJV/Verses/Matthew_6_19-21.mp3",
+   "Matthew 6:14-15": "KJV/Verses/Matthew_6_14-15.mp3",
+   "Matthew 5:14-16": "KJV/Verses/Matthew_5_14-16.mp3",
+   "Matthew 26:41": "KJV/Verses/Matthew_26_41.mp3",
+   "Matthew 25:35-36": "KJV/Verses/Matthew_25_35-36.mp3",
+   "Matthew 23:11-12": "KJV/Verses/Matthew_23_11-12.mp3",
+   "Matthew 21:22": "KJV/Verses/Matthew_21_22.mp3",
+   "Matthew 19:5-6": "KJV/Verses/Matthew_19_5-6.mp3",
+   "Matthew 19:14": "KJV/Verses/Matthew_19_14.mp3",
+   "Matthew 18:19-20": "KJV/Verses/Matthew_18_19-20.mp3",
+   "Matthew 17:20": "KJV/Verses/Matthew_17_20.mp3",
+   "Mark 9:23-24": "KJV/Verses/Mark_9_23-24.mp3",
+   "Mark 6:31": "KJV/Verses/Mark_6_31.mp3",
+   "Mark 2:17": "KJV/Verses/Mark_2_17.mp3",
+   "Mark 1:35": "KJV/Verses/Mark_1_35.mp3",
+   "Mark 11:25": "KJV/Verses/Mark_11_25.mp3",
+   "Mark 11:24": "KJV/Verses/Mark_11_24.mp3",
+   "Mark 10:43-45": "KJV/Verses/Mark_10_43-45.mp3",
+   "Luke 6:37": "KJV/Verses/Luke_6_37.mp3",
+   "Luke 18:1": "KJV/Verses/Luke_18_1.mp3",
+   "Luke 16:10": "KJV/Verses/Luke_16_10.mp3",
+   "Luke 12:15": "KJV/Verses/Luke_12_15.mp3",
+   "Luke 10:33-34": "KJV/Verses/Luke_10_33-34.mp3",
+   "Lamentations 3:21-23": "KJV/Verses/Lamentations_3_21-23.mp3",
+   "Jude 1:24-25": "KJV/Verses/Jude_1_24-25.mp3",
+   "John 5:24": "KJV/Verses/John_5_24.mp3",
+   "John 20:29": "KJV/Verses/John_20_29.mp3",
+   "John 1:12": "KJV/Verses/John_1_12.mp3",
+   "John 15:7": "KJV/Verses/John_15_7.mp3",
+   "John 15:16": "KJV/Verses/John_15_16.mp3",
+   "John 15:13": "KJV/Verses/John_15_13.mp3",
+   "John 15:11": "KJV/Verses/John_15_11.mp3",
+   "John 14:18": "KJV/Verses/John_14_18.mp3",
+   "John 13:14-15": "KJV/Verses/John_13_14-15.mp3",
+   "John 11:25-26": "KJV/Verses/John_11_25-26.mp3",
+   "John 10:10": "KJV/Verses/John_10_10.mp3",
+   "Joel 2:25": "KJV/Verses/Joel_2_25.mp3",
+   "Job 23:10": "KJV/Verses/Job_23_10.mp3",
+   "Job 1:21": "KJV/Verses/Job_1_21.mp3",
+   "Job 19:25-26": "KJV/Verses/Job_19_25-26.mp3",
+   "Job 12:12": "KJV/Verses/Job_12_12.mp3",
+   "Jeremiah 31:13": "KJV/Verses/Jeremiah_31_13.mp3",
+   "Jeremiah 1:5": "KJV/Verses/Jeremiah_1_5.mp3",
+   "Jeremiah 17:7-8": "KJV/Verses/Jeremiah_17_7-8.mp3",
+   "Jeremiah 17:14": "KJV/Verses/Jeremiah_17_14.mp3",
+   "James 5:16": "KJV/Verses/James_5_16.mp3",
+   "James 5:14-15": "KJV/Verses/James_5_14-15.mp3",
+   "James 4:10": "KJV/Verses/James_4_10.mp3",
+   "James 3:1": "KJV/Verses/James_3_1.mp3",
+   "James 1:6": "KJV/Verses/James_1_6.mp3",
+   "James 1:27": "KJV/Verses/James_1_27.mp3",
+   "James 1:17": "KJV/Verses/James_1_17.mp3",
+   "James 1:12": "KJV/Verses/James_1_12.mp3",
+   "Isaiah 9:6": "KJV/Verses/Isaiah_9_6.mp3",
+   "Isaiah 65:24": "KJV/Verses/Isaiah_65_24.mp3",
+   "Isaiah 61:3": "KJV/Verses/Isaiah_61_3.mp3",
+   "Isaiah 61:1-3": "KJV/Verses/Isaiah_61_1-3.mp3",
+   "Isaiah 58:11": "KJV/Verses/Isaiah_58_11.mp3",
+   "Isaiah 54:4-5": "KJV/Verses/Isaiah_54_4-5.mp3",
+   "Isaiah 54:17": "KJV/Verses/Isaiah_54_17.mp3",
+   "Isaiah 54:13": "KJV/Verses/Isaiah_54_13.mp3",
+   "Isaiah 54:10": "KJV/Verses/Isaiah_54_10.mp3",
+   "Isaiah 53:5-6": "KJV/Verses/Isaiah_53_5-6.mp3",
+   "Isaiah 49:15-16": "KJV/Verses/Isaiah_49_15-16.mp3",
+   "Isaiah 46:4": "KJV/Verses/Isaiah_46_4.mp3",
+   "Isaiah 43:25": "KJV/Verses/Isaiah_43_25.mp3",
+   "Isaiah 43:18-19": "KJV/Verses/Isaiah_43_18-19.mp3",
+   "Isaiah 43:1": "KJV/Verses/Isaiah_43_1.mp3",
+   "Isaiah 41:13": "KJV/Verses/Isaiah_41_13.mp3",
+   "Isaiah 40:29-31": "KJV/Verses/Isaiah_40_29-31.mp3",
+   "Isaiah 40:28-31": "KJV/Verses/Isaiah_40_28-31.mp3",
+   "Isaiah 30:21": "KJV/Verses/Isaiah_30_21.mp3",
+   "Isaiah 30:15": "KJV/Verses/Isaiah_30_15.mp3",
+   "Isaiah 26:4": "KJV/Verses/Isaiah_26_4.mp3",
+   "Isaiah 25:8": "KJV/Verses/Isaiah_25_8.mp3",
+   "Isaiah 1:18": "KJV/Verses/Isaiah_1_18.mp3",
+   "Isaiah 1:17": "KJV/Verses/Isaiah_1_17.mp3",
+   "Hebrews 8:12": "KJV/Verses/Hebrews_8_12.mp3",
+   "Hebrews 6:19": "KJV/Verses/Hebrews_6_19.mp3",
+   "Hebrews 4:9-10": "KJV/Verses/Hebrews_4_9-10.mp3",
+   "Hebrews 4:15-16": "KJV/Verses/Hebrews_4_15-16.mp3",
+   "Hebrews 13:5-6": "KJV/Verses/Hebrews_13_5-6.mp3",
+   "Hebrews 13:4": "KJV/Verses/Hebrews_13_4.mp3",
+   "Hebrews 13:20-21": "KJV/Verses/Hebrews_13_20-21.mp3",
+   "Hebrews 12:1-2": "KJV/Verses/Hebrews_12_1-2.mp3",
+   "Hebrews 11:6": "KJV/Verses/Hebrews_11_6.mp3",
+   "Hebrews 10:35-36": "KJV/Verses/Hebrews_10_35-36.mp3",
+   "Hebrews 10:24-25": "KJV/Verses/Hebrews_10_24-25.mp3",
+   "Habakkuk 3:19": "KJV/Verses/Habakkuk_3_19.mp3",
+   "Habakkuk 3:17-18": "KJV/Verses/Habakkuk_3_17-18.mp3",
+   "Genesis 50:20": "KJV/Verses/Genesis_50_20.mp3",
+   "Genesis 2:24": "KJV/Verses/Genesis_2_24.mp3",
+   "Genesis 2:2-3": "KJV/Verses/Genesis_2_2-3.mp3",
+   "Genesis 1:27": "KJV/Verses/Genesis_1_27.mp3",
+   "Galatians 5:16": "KJV/Verses/Galatians_5_16.mp3",
+   "Galatians 5:13": "KJV/Verses/Galatians_5_13.mp3",
+   "Galatians 5:1": "KJV/Verses/Galatians_5_1.mp3",
+   "Galatians 2:20": "KJV/Verses/Galatians_2_20.mp3",
+   "Exodus 33:14": "KJV/Verses/Exodus_33_14.mp3",
+   "Exodus 14:14": "KJV/Verses/Exodus_14_14.mp3",
+   "Ephesians 6:7-8": "KJV/Verses/Ephesians_6_7-8.mp3",
+   "Ephesians 6:18": "KJV/Verses/Ephesians_6_18.mp3",
+   "Ephesians 6:10-11": "KJV/Verses/Ephesians_6_10-11.mp3",
+   "Ephesians 6:10": "KJV/Verses/Ephesians_6_10.mp3",
+   "Ephesians 5:33": "KJV/Verses/Ephesians_5_33.mp3",
+   "Ephesians 5:18": "KJV/Verses/Ephesians_5_18.mp3",
+   "Ephesians 4:31-32": "KJV/Verses/Ephesians_4_31-32.mp3",
+   "Ephesians 4:26-27": "KJV/Verses/Ephesians_4_26-27.mp3",
+   "Ephesians 3:20-21": "KJV/Verses/Ephesians_3_20-21.mp3",
+   "Ephesians 1:7": "KJV/Verses/Ephesians_1_7.mp3",
+   "Ephesians 1:4-5": "KJV/Verses/Ephesians_1_4-5.mp3",
+   "Ecclesiastes 9:10": "KJV/Verses/Ecclesiastes_9_10.mp3",
+   "Ecclesiastes 7:9": "KJV/Verses/Ecclesiastes_7_9.mp3",
+   "Ecclesiastes 5:10": "KJV/Verses/Ecclesiastes_5_10.mp3",
+   "Ecclesiastes 4:9-12": "KJV/Verses/Ecclesiastes_4_9-12.mp3",
+   "Ecclesiastes 4:9-10": "KJV/Verses/Ecclesiastes_4_9-10.mp3",
+   "Ecclesiastes 3:1-4": "KJV/Verses/Ecclesiastes_3_1-4.mp3",
+   "Deuteronomy 8:18": "KJV/Verses/Deuteronomy_8_18.mp3",
+   "Deuteronomy 33:25": "KJV/Verses/Deuteronomy_33_25.mp3",
+   "Deuteronomy 31:6": "KJV/Verses/Deuteronomy_31_6.mp3",
+   "Daniel 3:17-18": "KJV/Verses/Daniel_3_17-18.mp3",
+   "Daniel 2:20-21": "KJV/Verses/Daniel_2_20-21.mp3",
+   "Daniel 1:17": "KJV/Verses/Daniel_1_17.mp3",
+   "Colossians 4:2": "KJV/Verses/Colossians_4_2.mp3",
+   "Colossians 3:8": "KJV/Verses/Colossians_3_8.mp3",
+   "Colossians 3:21": "KJV/Verses/Colossians_3_21.mp3",
+   "Colossians 3:18-19": "KJV/Verses/Colossians_3_18-19.mp3",
+   "Colossians 3:17": "KJV/Verses/Colossians_3_17.mp3",
+   "Colossians 3:15": "KJV/Verses/Colossians_3_15.mp3",
+   "Colossians 3:12-14": "KJV/Verses/Colossians_3_12-14.mp3",
+   "Amos 5:24": "KJV/Verses/Amos_5_24.mp3",
+   "Acts 4:12": "KJV/Verses/Acts_4_12.mp3",
+   "3 John 1:4": "KJV/Verses/3_John_1_4.mp3",
+   "3 John 1:2": "KJV/Verses/3_John_1_2.mp3",
+   "2 Timothy 4:7": "KJV/Verses/2_Timothy_4_7.mp3",
+   "2 Timothy 2:3-4": "KJV/Verses/2_Timothy_2_3-4.mp3",
+   "2 Timothy 2:22": "KJV/Verses/2_Timothy_2_22.mp3",
+   "2 Timothy 2:15": "KJV/Verses/2_Timothy_2_15.mp3",
+   "2 Timothy 1:9": "KJV/Verses/2_Timothy_1_9.mp3",
+   "2 Timothy 1:7": "KJV/Verses/2_Timothy_1_7.mp3",
+   "2 Timothy 1:5": "KJV/Verses/2_Timothy_1_5.mp3",
+   "2 Thessalonians 3:16": "KJV/Verses/2_Thessalonians_3_16.mp3",
+   "2 Corinthians 9:8": "KJV/Verses/2_Corinthians_9_8.mp3",
+   "2 Corinthians 5:7": "KJV/Verses/2_Corinthians_5_7.mp3",
+   "2 Corinthians 5:21": "KJV/Verses/2_Corinthians_5_21.mp3",
+   "2 Corinthians 4:8-9": "KJV/Verses/2_Corinthians_4_8-9.mp3",
+   "2 Corinthians 4:16-18": "KJV/Verses/2_Corinthians_4_16-18.mp3",
+   "2 Corinthians 13:14": "KJV/Verses/2_Corinthians_13_14.mp3",
+   "2 Chronicles 7:14": "KJV/Verses/2_Chronicles_7_14.mp3",
+   "2 Chronicles 15:7": "KJV/Verses/2_Chronicles_15_7.mp3",
+   "1 Timothy 6:6-8": "KJV/Verses/1_Timothy_6_6-8.mp3",
+   "1 Timothy 4:8": "KJV/Verses/1_Timothy_4_8.mp3",
+   "1 Timothy 2:1-2": "KJV/Verses/1_Timothy_2_1-2.mp3",
+   "1 Thessalonians 5:23-24": "KJV/Verses/1_Thessalonians_5_23-24.mp3",
+   "1 Thessalonians 5:11": "KJV/Verses/1_Thessalonians_5_11.mp3",
+   "1 Thessalonians 4:13-14": "KJV/Verses/1_Thessalonians_4_13-14.mp3",
+   "1 Peter 5:8-9": "KJV/Verses/1_Peter_5_8-9.mp3",
+   "1 Peter 5:5-6": "KJV/Verses/1_Peter_5_5-6.mp3",
+   "1 Peter 5:10": "KJV/Verses/1_Peter_5_10.mp3",
+   "1 Peter 4:8-9": "KJV/Verses/1_Peter_4_8-9.mp3",
+   "1 Peter 3:7": "KJV/Verses/1_Peter_3_7.mp3",
+   "1 Peter 2:9": "KJV/Verses/1_Peter_2_9.mp3",
+   "1 Peter 1:3": "KJV/Verses/1_Peter_1_3.mp3",
+   "1 John 5:14-15": "KJV/Verses/1_John_5_14-15.mp3",
+   "1 John 5:11-13": "KJV/Verses/1_John_5_11-13.mp3",
+   "1 John 4:7-8": "KJV/Verses/1_John_4_7-8.mp3",
+   "1 John 4:4": "KJV/Verses/1_John_4_4.mp3",
+   "1 Corinthians 9:24-25": "KJV/Verses/1_Corinthians_9_24-25.mp3",
+   "1 Corinthians 6:19-20": "KJV/Verses/1_Corinthians_6_19-20.mp3",
+   "1 Corinthians 16:13": "KJV/Verses/1_Corinthians_16_13.mp3",
+   "1 Corinthians 15:58": "KJV/Verses/1_Corinthians_15_58.mp3",
+   "1 Corinthians 15:55-57": "KJV/Verses/1_Corinthians_15_55-57.mp3",
+   "1 Corinthians 10:31": "KJV/Verses/1_Corinthians_10_31.mp3",
+   "Romans 8:38-39": "KJV/Verses/Romans_8_38-39.mp3",
+   "Romans 8:28": "KJV/Verses/Romans_8_28.mp3",
+   "Romans 8:1": "KJV/Verses/Romans_8_1.mp3",
+   "Romans 6:23": "KJV/Verses/Romans_6_23.mp3",
+   "Romans 5:8": "KJV/Verses/Romans_5_8.mp3",
+   "Romans 5:3-5": "KJV/Verses/Romans_5_3-5.mp3",
+   "Romans 15:13": "KJV/Verses/Romans_15_13.mp3",
+   "Romans 12:2": "KJV/Verses/Romans_12_2.mp3",
+   "Romans 10:9-10": "KJV/Verses/Romans_10_9-10.mp3",
+   "Revelation 21:4": "KJV/Verses/Revelation_21_4.mp3",
+   "Psalms 51:10-12": "KJV/Verses/Psalms_51_10-12.mp3",
+   "Psalms 4:8": "KJV/Verses/Psalms_4_8.mp3",
+   "Psalms 46:10": "KJV/Verses/Psalms_46_10.mp3",
+   "Psalms 46:1-2": "KJV/Verses/Psalms_46_1-2.mp3",
+   "Psalms 42:5": "KJV/Verses/Psalms_42_5.mp3",
+   "Psalms 42:11": "KJV/Verses/Psalms_42_11.mp3",
+   "Psalms 37:5": "KJV/Verses/Psalms_37_5.mp3",
+   "Psalms 34:18": "KJV/Verses/Psalms_34_18.mp3",
+   "Psalms 32:8": "KJV/Verses/Psalms_32_8.mp3",
+   "Psalms 30:5": "KJV/Verses/Psalms_30_5.mp3",
+   "Psalms 27:1": "KJV/Verses/Psalms_27_1.mp3",
+   "Psalms 23:4": "KJV/Verses/Psalms_23_4.mp3",
+   "Psalms 23:1-4": "KJV/Verses/Psalms_23_1-4.mp3",
+   "Psalms 19:14": "KJV/Verses/Psalms_19_14.mp3",
+   "Psalms 16:11": "KJV/Verses/Psalms_16_11.mp3",
+   "Psalms 147:3": "KJV/Verses/Psalms_147_3.mp3",
+   "Psalms 139:23-24": "KJV/Verses/Psalms_139_23-24.mp3",
+   "Psalms 139:13-14": "KJV/Verses/Psalms_139_13-14.mp3",
+   "Psalms 121:1-2": "KJV/Verses/Psalms_121_1-2.mp3",
+   "Psalms 119:105": "KJV/Verses/Psalms_119_105.mp3",
+   "Psalms 118:24": "KJV/Verses/Psalms_118_24.mp3",
+   "Psalms 103:12": "KJV/Verses/Psalms_103_12.mp3",
+   "Psalms 100:4-5": "KJV/Verses/Psalms_100_4-5.mp3",
+   "Proverbs 4:23": "KJV/Verses/Proverbs_4_23.mp3",
+   "Proverbs 3:5-6": "KJV/Verses/Proverbs_3_5-6.mp3",
+   "Proverbs 22:6": "KJV/Verses/Proverbs_22_6.mp3",
+   "Proverbs 16:3": "KJV/Verses/Proverbs_16_3.mp3",
+   "Proverbs 15:1": "KJV/Verses/Proverbs_15_1.mp3",
+   "Philippians 4:8": "KJV/Verses/Philippians_4_8.mp3",
+   "Philippians 4:6-7": "KJV/Verses/Philippians_4_6-7.mp3",
+   "Philippians 4:4": "KJV/Verses/Philippians_4_4.mp3",
+   "Philippians 4:19": "KJV/Verses/Philippians_4_19.mp3",
+   "Philippians 4:13": "KJV/Verses/Philippians_4_13.mp3",
+   "Philippians 2:3-4": "KJV/Verses/Philippians_2_3-4.mp3",
+   "Numbers 6:24-26": "KJV/Verses/Numbers_6_24-26.mp3",
+   "Micah 6:8": "KJV/Verses/Micah_6_8.mp3",
+   "Matthew 7:7-8": "KJV/Verses/Matthew_7_7-8.mp3",
+   "Matthew 7:12": "KJV/Verses/Matthew_7_12.mp3",
+   "Matthew 6:9-13": "KJV/Verses/Matthew_6_9-13.mp3",
+   "Matthew 6:33-34": "KJV/Verses/Matthew_6_33-34.mp3",
+   "Matthew 5:4": "KJV/Verses/Matthew_5_4.mp3",
+   "Matthew 28:20": "KJV/Verses/Matthew_28_20.mp3",
+   "Matthew 22:37-39": "KJV/Verses/Matthew_22_37-39.mp3",
+   "Matthew 11:28-30": "KJV/Verses/Matthew_11_28-30.mp3",
+   "Mark 10:45": "KJV/Verses/Mark_10_45.mp3",
+   "Lamentations 3:22-23": "KJV/Verses/Lamentations_3_22-23.mp3",
+   "Joshua 1:9": "KJV/Verses/Joshua_1_9.mp3",
+   "John 8:36": "KJV/Verses/John_8_36.mp3",
+   "John 3:16-17": "KJV/Verses/John_3_16-17.mp3",
+   "John 16:33": "KJV/Verses/John_16_33.mp3",
+   "John 14:6": "KJV/Verses/John_14_6.mp3",
+   "John 14:27": "KJV/Verses/John_14_27.mp3",
+   "John 14:1-3": "KJV/Verses/John_14_1-3.mp3",
+   "John 13:34-35": "KJV/Verses/John_13_34-35.mp3",
+   "Jeremiah 33:3": "KJV/Verses/Jeremiah_33_3.mp3",
+   "Jeremiah 29:11": "KJV/Verses/Jeremiah_29_11.mp3",
+   "James 4:7-8": "KJV/Verses/James_4_7-8.mp3",
+   "James 1:5": "KJV/Verses/James_1_5.mp3",
+   "James 1:2-4": "KJV/Verses/James_1_2-4.mp3",
+   "James 1:19-20": "KJV/Verses/James_1_19-20.mp3",
+   "Isaiah 43:2": "KJV/Verses/Isaiah_43_2.mp3",
+   "Isaiah 43:1-2": "KJV/Verses/Isaiah_43_1-2.mp3",
+   "Isaiah 41:10": "KJV/Verses/Isaiah_41_10.mp3",
+   "Isaiah 40:31": "KJV/Verses/Isaiah_40_31.mp3",
+   "Isaiah 26:3": "KJV/Verses/Isaiah_26_3.mp3",
+   "Hebrews 4:16": "KJV/Verses/Hebrews_4_16.mp3",
+   "Hebrews 13:5": "KJV/Verses/Hebrews_13_5.mp3",
+   "Hebrews 11:1": "KJV/Verses/Hebrews_11_1.mp3",
+   "Galatians 6:9": "KJV/Verses/Galatians_6_9.mp3",
+   "Galatians 6:2": "KJV/Verses/Galatians_6_2.mp3",
+   "Galatians 5:22-23": "KJV/Verses/Galatians_5_22-23.mp3",
+   "Ephesians 6:4": "KJV/Verses/Ephesians_6_4.mp3",
+   "Ephesians 5:25": "KJV/Verses/Ephesians_5_25.mp3",
+   "Ephesians 4:32": "KJV/Verses/Ephesians_4_32.mp3",
+   "Ephesians 2:8-9": "KJV/Verses/Ephesians_2_8-9.mp3",
+   "Ephesians 2:10": "KJV/Verses/Ephesians_2_10.mp3",
+   "Deuteronomy 6:6-7": "KJV/Verses/Deuteronomy_6_6-7.mp3",
+   "Deuteronomy 31:8": "KJV/Verses/Deuteronomy_31_8.mp3",
+   "Colossians 3:23-24": "KJV/Verses/Colossians_3_23-24.mp3",
+   "Colossians 3:13": "KJV/Verses/Colossians_3_13.mp3",
+   "2 Corinthians 5:17": "KJV/Verses/2_Corinthians_5_17.mp3",
+   "2 Corinthians 1:3-4": "KJV/Verses/2_Corinthians_1_3-4.mp3",
+   "2 Corinthians 12:9-10": "KJV/Verses/2_Corinthians_12_9-10.mp3",
+   "1 Thessalonians 5:17": "KJV/Verses/1_Thessalonians_5_17.mp3",
+   "1 Thessalonians 5:16-18": "KJV/Verses/1_Thessalonians_5_16-18.mp3",
+   "1 Peter 5:7": "KJV/Verses/1_Peter_5_7.mp3",
+   "1 John 3:1": "KJV/Verses/1_John_3_1.mp3",
+   "1 John 1:9": "KJV/Verses/1_John_1_9.mp3",
+   "1 Corinthians 13:4-7": "KJV/Verses/1_Corinthians_13_4-7.mp3",
+   "1 Corinthians 10:13": "KJV/Verses/1_Corinthians_10_13.mp3"
+  }
+ }
+}
