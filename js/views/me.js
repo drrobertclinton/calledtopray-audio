@@ -75,8 +75,9 @@ export async function renderMe(app) {
 
     <section class="card about">
       <div class="card-label">${icon('info')}About Called to Pray</div>
-      <p>Called to Pray helps you pray every day for your work, your family and the people you love, with Scripture read aloud.</p>
-      <p><strong style="color:var(--text)">Scripture read by Robert Clinton, MD.</strong></p>
+      <p>Called to Pray helps families, small groups, churches and ministries organize their prayers. Share prayer requests with your group, record the answers when they come, and keep a history you can look back on. Anything you want kept private stays behind your passcode.</p>
+      <p>Read Scripture or have it read aloud.</p>
+      <p>Scripture read by Robert Clinton, MD.</p>
       <p>The Holy Bible, Berean Standard Bible (BSB). The BSB text has been dedicated to the public domain. Free resources and databases are available at BereanBible.com.</p>
       <p>The King James Version (KJV) is in the public domain.</p>
       <p class="hint">Version 1.0</p>

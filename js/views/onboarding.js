@@ -22,7 +22,7 @@ export async function renderOnboarding(app, finish) {
         <div class="ob-hero">${MARK}
           <h1>Called to Pray</h1>
           <p class="lead">A daily place to pray for your work, your family and the people you love.</p>
-          <p class="lead" style="margin-top:10px">Scripture is read aloud to you by Robert Clinton, MD, so you can listen as well as read.</p>
+          <p class="lead" style="margin-top:10px">Share prayer requests with your family, group or church, record the answers, and look back on what has changed. Read Scripture or have it read aloud.</p>
         </div>
         <div class="ob-actions">
           <button class="btn btn-gold btn-block" id="guest">Get started</button>

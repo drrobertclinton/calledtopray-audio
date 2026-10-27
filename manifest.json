@@ -1,7 +1,7 @@
 {
   "name": "Called to Pray",
   "short_name": "Called to Pray",
-  "description": "Pray every day for your work, your family and the people you love, with Scripture read aloud.",
+  "description": "Organize your prayers with your family, small group, church or ministry. Share requests, record answers, and read Scripture or have it read aloud.",
   "id": "./",
   "start_url": "./#/today",
   "scope": "./",

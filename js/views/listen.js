@@ -31,7 +31,7 @@ function home(app) {
     <header class="view-head">
       <p class="eyebrow">Scripture</p>
       <h1>Listen & Read</h1>
-      <p class="purpose">Hear Scripture read aloud by Robert Clinton, MD, or read any chapter of the Bible in the ${esc(TR_NAMES[t])}.</p>
+      <p class="purpose">Have Scripture read aloud, or read any chapter of the Bible in the ${esc(TR_NAMES[t])}.</p>
     </header>
     <div class="list">
       ${navRow('#/listen/psalms', 'volume', 'Psalms', 'All 150 Psalms, read aloud. Pray them back to God.')}
