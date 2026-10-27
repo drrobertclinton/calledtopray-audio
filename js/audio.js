@@ -8,8 +8,17 @@ audio.preload = 'metadata';
 audio.id = 'ctp-audio';
 let track = null;     // { id, title, subtitle, parts: [url], durations: [] }
 let part = 0;
-const speeds = [0.75, 1, 1.25, 1.5];
-let speedIdx = 1;
+// Recordings were made at speed 0.9, so "0.9" plays them as recorded.
+// Other choices are relative to that (1.0 plays about 11% faster, etc.). Pitch is kept natural.
+const BASE = 0.9;
+const speeds = [0.9, 1, 1.25, 1.5, 2, 0.75];
+let speedIdx = 0;
+try { const s = +localStorage.getItem('ctp:speed'); const i = speeds.indexOf(s); if (i >= 0) speedIdx = i; } catch {}
+const rateFor = i => speeds[i] / BASE;
+function applySpeed() {
+  audio.preservesPitch = true; audio.mozPreservesPitch = true; audio.webkitPreservesPitch = true;
+  audio.defaultPlaybackRate = rateFor(speedIdx); audio.playbackRate = rateFor(speedIdx);
+}
 const subs = new Set();
 
 export const player = {
@@ -38,7 +47,7 @@ export async function playTrack(t) {
 function loadPart(i, autoplay) {
   part = i;
   audio.src = track.parts[i];
-  audio.playbackRate = speeds[speedIdx];
+  applySpeed();
   if (autoplay) audio.play().catch(err => { if (err.name !== 'AbortError') toast('Tap play to listen.'); notify(); });
   notify();
 }
@@ -85,7 +94,11 @@ function skip(delta) {
   if (t < 0 && part > 0) loadPart(part - 1, !audio.paused);
   else audio.currentTime = Math.max(0, Math.min(t, (audio.duration || t)));
 }
-function cycleSpeed() { speedIdx = (speedIdx + 1) % speeds.length; audio.playbackRate = speeds[speedIdx]; render(); }
+function cycleSpeed() {
+  speedIdx = (speedIdx + 1) % speeds.length; applySpeed();
+  try { localStorage.setItem('ctp:speed', String(speeds[speedIdx])); } catch {}
+  render();
+}
 
 audio.addEventListener('ended', () => {
   if (track && part < track.parts.length - 1) loadPart(part + 1, true);
@@ -125,7 +138,7 @@ export function mountPlayer() {
     </div>
     <div class="mp-scrub"><span class="mp-cur">0:00</span><input type="range" min="0" max="1000" value="0" aria-label="Position"><span class="mp-dur">0:00</span></div>
     <div class="mp-ctrls">
-      <button class="mp-speed" aria-label="Playback speed">1x</button>
+      <button class="mp-speed" aria-label="Reading speed">0.9x</button>
       <button class="mp-back" aria-label="Back 15 seconds">${icon('back15')}</button>
       <button class="mp-play" aria-label="Play">${icon('play')}</button>
       <button class="mp-fwd" aria-label="Forward 15 seconds">${icon('fwd15')}</button>
@@ -150,7 +163,7 @@ function render() {
   const pb = bar.querySelector('.mp-play');
   pb.innerHTML = icon(audio.paused ? 'play' : 'pause');
   pb.setAttribute('aria-label', audio.paused ? 'Play' : 'Pause');
-  bar.querySelector('.mp-speed').textContent = speeds[speedIdx] + 'x';
+  bar.querySelector('.mp-speed').textContent = speeds[speedIdx].toFixed(speeds[speedIdx] % 1 ? (speeds[speedIdx] * 10 % 1 ? 2 : 1) : 1) + 'x';
   bar.querySelector('.mp-part').textContent = track.parts.length > 1 ? `Part ${part + 1} of ${track.parts.length}` : '';
   renderTime();
 }
