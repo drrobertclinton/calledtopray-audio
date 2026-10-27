@@ -401,3 +401,8 @@ input:focus, textarea:focus, select:focus { border-color: var(--gold); box-shado
 .install-steps { margin: 16px 0; padding-left: 22px; line-height: 1.55; }
 .install-steps li { margin-bottom: 12px; }
 .install-steps .ic { width: 18px; height: 18px; vertical-align: -3px; color: var(--gold-hi); }
+
+.post-card { position: relative; }
+.post-card .post-more { position: absolute; top: 10px; right: 8px; background: none; border: 0; color: var(--text-3); padding: 8px; min-height: 0; }
+.post-card .post-more .ic { width: 20px; height: 20px; }
+.post-card > .row-meta { padding-right: 34px; }

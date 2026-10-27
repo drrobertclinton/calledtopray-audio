@@ -1,0 +1,84 @@
+rules_version = '2';
+// Called to Pray security rules (Firebase project calledto-pray-zds4g4).
+// Paste into Firebase console > Firestore Database > Rules, then Publish.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function me() { return request.auth.uid; }
+    function memberPath(g) { return /databases/$(database)/documents/groups/$(g)/members/$(me()); }
+    function groupPath(g) { return /databases/$(database)/documents/groups/$(g); }
+    function hasMember(g) { return signedIn() && exists(memberPath(g)); }
+    function myStatus(g) { return get(memberPath(g)).data.status; }
+    function isMember(g) { return hasMember(g) && myStatus(g) == 'active'; }
+    function isLeader(g) { return isMember(g) && get(memberPath(g)).data.role == 'leader'; }
+    function onlyChanges(keys) { return request.resource.data.diff(resource.data).affectedKeys().hasOnly(keys); }
+
+    // Each person's own prayers, profile and settings. Nobody else can read them.
+    match /users/{uid} {
+      allow read, write: if signedIn() && me() == uid;
+      match /{document=**} {
+        allow read, write: if signedIn() && me() == uid;
+      }
+    }
+
+    // Group codes: any signed-in person can look up a code to join.
+    match /codes/{code} {
+      allow read: if signedIn();
+      allow create: if signedIn() && (
+        isLeader(request.resource.data.groupId) ||
+        (!exists(groupPath(request.resource.data.groupId)) && getAfter(groupPath(request.resource.data.groupId)).data.leaderUid == me()));
+      allow update, delete: if isLeader(resource.data.groupId);
+    }
+
+    match /groups/{g} {
+      // Members, and people waiting for approval, can see the group. Blocked people cannot.
+      allow read: if isMember(g) || (hasMember(g) && myStatus(g) == 'pending');
+      allow create: if signedIn() && request.resource.data.leaderUid == me()
+        && getAfter(memberPath(g)).data.role == 'leader';
+      allow update: if isLeader(g) && request.resource.data.leaderUid == resource.data.leaderUid;
+      allow delete: if false;
+
+      match /members/{uid} {
+        allow read: if isMember(g) || (signedIn() && me() == uid);
+        // Joining: only yourself, only as a member, and only if you have never been in the group
+        // (a blocked person's record stays, so they cannot join again).
+        allow create: if signedIn() && me() == uid && (
+          (request.resource.data.role == 'leader' && request.resource.data.status == 'active'
+            && !exists(groupPath(g)) && getAfter(groupPath(g)).data.leaderUid == me()) ||
+          (request.resource.data.role == 'member' && (request.resource.data.status == 'pending'
+            || (request.resource.data.status == 'active' && get(groupPath(g)).data.approval == false))));
+        allow update: if isLeader(g)
+          || (signedIn() && me() == uid && resource.data.status != 'blocked' && onlyChanges(['name']));
+        // Leaders remove or decline people; anyone can leave unless they were blocked.
+        allow delete: if isLeader(g) || (signedIn() && me() == uid && resource.data.status != 'blocked');
+      }
+
+      match /posts/{p} {
+        allow read: if isMember(g);
+        allow create: if isMember(g) && request.resource.data.authorUid == me();
+        allow update: if isMember(g) && (
+          onlyChanges(['prayedBy', 'prayedCount']) ||
+          (resource.data.authorUid == me() && onlyChanges(['answered', 'answeredAt', 'text'])) ||
+          isLeader(g));
+        allow delete: if isMember(g) && (resource.data.authorUid == me() || isLeader(g));
+      }
+
+      match /reports/{r} {
+        allow create: if isMember(g) && request.resource.data.reporterUid == me();
+        allow read, update: if isLeader(g);
+        allow delete: if false;
+      }
+    }
+
+    // Copies of reports and group registrations for the Called to Pray team (read in the Firebase console).
+    match /reports/{r} {
+      allow create: if signedIn() && request.resource.data.reporterUid == me();
+      allow read, update, delete: if false;
+    }
+    match /registrations/{g} {
+      allow create: if signedIn() && request.resource.data.leaderUid == me();
+      allow update: if signedIn() && resource.data.leaderUid == me();
+      allow read, delete: if false;
+    }
+  }
+}
