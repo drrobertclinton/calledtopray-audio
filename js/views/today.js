@@ -4,6 +4,7 @@ import { state, tr, kvGet, kvSet, pushProfile } from '../store.js';
 import { topicsData, keyVerses, getPassage, getChapter, verseAudio, chapterAudio, displayRef, TR_NAMES } from '../bible.js';
 import { playBtn, playTrack } from '../audio.js';
 import { topicsForProfile, prayerPrompt, verseFitsProfile } from '../content.js';
+import { installBanner, wireInstallBanner } from '../install.js';
 import { openSpeakMode } from './pray.js';
 
 // Pick today's verse once per day: verses tied to the person's callings and situations
@@ -43,6 +44,7 @@ export async function renderToday(app) {
       <p class="purpose">Today gives you a verse, a Proverb and a Psalm to read or hear, and a place to pray.</p>
     </header>
 
+    ${installBanner()}
     <button class="pray-now" id="pray-now">
       <span class="mic-orb">${icon('mic')}</span>
       <span><strong>Pray now</strong><span>Tap and speak your prayer. We will keep it and sort it for you.</span></span>
@@ -74,6 +76,7 @@ export async function renderToday(app) {
     <button class="btn btn-outline btn-block" id="feedback" style="margin-top:14px">${icon('note')}Send feedback</button>
   `;
   app.querySelector('#pray-now').onclick = () => openSpeakMode();
+  wireInstallBanner(app);
   app.querySelector('#feedback').onclick = () => import('../feedback.js').then(m => m.openFeedback());
 
   // Prayer prompt

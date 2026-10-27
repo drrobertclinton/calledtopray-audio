@@ -1,10 +1,10 @@
 // Called to Pray service worker.
 // Caches the app shell only. Audio (.mp3) is never pre-cached; it streams from the site.
 // Bible text files are cached as they are opened so recently read books work offline.
-const VERSION = 'ctp-v1.0.4';
+const VERSION = 'ctp-v1.0.5';
 const SHELL = [
   './', './index.html', './manifest.json', './css/app.css',
-  './js/app.js', './js/util.js', './js/store.js', './js/bible.js', './js/audio.js', './js/speech.js', './js/content.js', './js/qr.js', './js/feedback.js',
+  './js/app.js', './js/util.js', './js/store.js', './js/bible.js', './js/audio.js', './js/speech.js', './js/content.js', './js/qr.js', './js/feedback.js', './js/install.js',
   './js/views/today.js', './js/views/pray.js', './js/views/groups.js', './js/views/listen.js', './js/views/me.js', './js/views/onboarding.js',
   './data/books.json', './data/audio_index.json', './data/topics.json',
   './icons/icon-192.png', './icons/icon-512.png', './icons/favicon.svg', './icons/apple-touch-icon.png',

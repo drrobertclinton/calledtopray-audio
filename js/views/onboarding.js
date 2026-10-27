@@ -5,6 +5,7 @@ import { TR_NAMES } from '../bible.js';
 import { OCCUPATIONS, FAMILY, CARRYING } from '../content.js';
 import { wireDictation, stopListening } from '../speech.js';
 import { openAuthSheet } from './me.js';
+import { isInstalled, openInstallHelp } from '../install.js';
 
 const MARK = `<svg class="ob-mark" viewBox="0 0 96 96" fill="none" aria-hidden="true">
   <circle cx="48" cy="48" r="46" stroke="#C9A45C" stroke-opacity=".35" stroke-width="1.5"/>
@@ -25,10 +26,12 @@ export async function renderOnboarding(app, finish) {
           <p class="lead" style="margin-top:10px">Share prayer requests with your family, group or church, record the answers, and look back on what has changed. Read Scripture or have it read aloud.</p>
         </div>
         <div class="ob-actions">
+          ${isInstalled() ? '' : `<button class="install-banner" id="ob-install">${icon('home')}<span><strong>Add to your home screen first</strong><span>Do this before you start so the app and your prayers stay on your phone. Tap for steps.</span></span></button>`}
           <button class="btn btn-gold btn-block" id="guest">Get started</button>
           <button class="btn btn-ghost btn-block" id="signin">I have an account</button>
           <p class="hint" style="text-align:center">You can use the app without an account. Your prayers stay on this phone until you sign up.</p>
         </div></div>`;
+      app.querySelector('#ob-install')?.addEventListener('click', openInstallHelp);
       app.querySelector('#guest').onclick = () => { setMode('guest'); step = 1; draw(); };
       app.querySelector('#signin').onclick = () => openAuthSheet('signin', { onDone: () => { if (state.profile.onboarded) finish(); else { step = 1; draw(); } } });
       return;

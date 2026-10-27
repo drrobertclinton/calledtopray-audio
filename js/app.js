@@ -8,6 +8,7 @@ import { renderGroups, handleJoinLink } from './views/groups.js';
 import { renderListen, renderReader } from './views/listen.js';
 import { renderMe } from './views/me.js';
 import { renderOnboarding } from './views/onboarding.js';
+import './install.js';
 
 const TABS = [
   { k: 'today', n: 'Today', icon: 'sun' },

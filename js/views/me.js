@@ -5,6 +5,7 @@ import { TR_NAMES } from '../bible.js';
 import { wireDictation, stopListening } from '../speech.js';
 import { callingsEditor } from './onboarding.js';
 import { setupPasscode } from './pray.js';
+import { isInstalled, openInstallHelp } from '../install.js';
 
 export async function renderMe(app) {
   const p = state.profile;
@@ -30,6 +31,7 @@ export async function renderMe(app) {
       <div class="card-label">${icon('note')}Help us test</div>
       <p class="card-purpose">Found a problem or have an idea? We read every note.</p>
       <button class="btn btn-gold btn-block" id="feedback">${icon('note')}Send feedback</button>
+      ${isInstalled() ? '' : `<button class="btn btn-outline btn-block" id="install" style="margin-top:10px">${icon('home')}Add to home screen</button>`}
     </section>
 
     <section class="card">
@@ -87,6 +89,7 @@ export async function renderMe(app) {
       : `<button class="btn btn-ghost btn-block" id="reset" style="margin-top:22px">Start over on this device</button>`}
   `;
   wireDictation(app);
+  app.querySelector('#install')?.addEventListener('click', openInstallHelp);
   app.querySelector('#feedback').onclick = () => import('../feedback.js').then(m => m.openFeedback());
   const name = app.querySelector('#name');
   let nt; name.addEventListener('input', () => { clearTimeout(nt); nt = setTimeout(() => saveProfile({ name: name.value.trim() }), 500); });
